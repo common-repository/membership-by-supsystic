@@ -1,0 +1,25 @@
+{% if activity.type == 'follow' %}
+	{% if isCurrentUser(activity.target) %}
+		{{ translate('%s is now following you')
+		|format(
+			'<a href="' ~ profileUrl(activity.author) ~ '">' ~ activity.author.displayName ~ '</a>'
+		)|raw }}
+	{% else %}
+		{{ translate('%s is now following %s')
+		|format(
+			'<a href="' ~ profileUrl(activity.author) ~ '">' ~ activity.author.displayName ~ '</a>',
+			'<a href="' ~ profileUrl(activity.target) ~ '">' ~ activity.target.displayName ~ '</a>'
+		)
+		|raw }}
+	{% endif %}
+{% endif %}
+
+{% if activity.type == 'friendship' %}
+ 
+	{{ translate('%s and %s became friends')
+	|format(
+		'<a href="' ~ profileUrl(activity.author) ~ '">' ~ activity.author.displayName ~ '</a>',
+		'<a href="' ~ profileUrl(activity.target) ~ '">' ~ activity.target.displayName ~ '</a>'
+	)|raw }}
+	
+{% endif %}

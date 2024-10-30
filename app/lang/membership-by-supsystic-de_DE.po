@@ -1,0 +1,4348 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: ‹bersetzung Symantec Sozail Community\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Erwin Wimmer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE@formal\n"
+"X-Generator: Poedit 2.0.9\n"
+
+msgid " WooCommerce from admin area, or visit it's official page on Wordpress.org "
+msgstr "WooCommerce aus dem Admin-Bereich, oder besuchen Sie die offizielle Seite auf Wordpress.org"
+
+msgid " plugin from your admin area, or visit it's official page on Wordpress.org "
+msgstr "Plugin von Ihrem Admin-Bereich, oder besuchen Sie die offizielle Seite auf Wordpress.org"
+
+msgid "%d followers"
+msgstr "%d followers"
+
+msgid "%s accepted your friend reuqest."
+msgstr "%s hat deine Freundschaftsanfrage akzeptiert."
+
+msgid "%s and %s becomes friends"
+msgstr "%s und %s wurden Freunde"
+
+msgid "%s commented post from %s on %s."
+msgstr "%s kommentierte Beitrag von %s auf %s."
+
+msgid "%s created new topic %s."
+msgstr "%s hat ein neues Thema erstellt %s."
+
+msgid "%s followers"
+msgstr "%s followers"
+
+msgid "%s invited you to join %s group."
+msgstr "%s hat dich eingeladen, der %s -Gruppe beizutreten."
+
+msgid "%s is following you."
+msgstr "%s folgt dir."
+
+msgid "%s is not valid email"
+msgstr "%s ist keine g¸ltige E-Mailadresse"
+
+msgid "%s is registered"
+msgstr "%s ist eingetragen"
+
+msgid "%s is required and can't be empty"
+msgstr "%s Wert ist erforderlich und darf nicht leer sein"
+
+msgid "%s liked post from %s on %s."
+msgstr "%s hat den Beitrag von %s aus %s geliked."
+
+msgid "%s now following %s"
+msgstr "%s folgt jetzt %s"
+
+msgid "%s now following you"
+msgstr "%s folgt dir jetzt"
+
+msgid "%s people liked this"
+msgstr "%s Leute mochten das"
+
+msgid "%s people shared this"
+msgstr "%s Leute teilten das"
+
+msgid "%s replied in topic %s."
+msgstr "%s antwortete im Thema von %s."
+
+msgid "%s sent you a friend reuqest."
+msgstr "%s hat dir eine Freundschaftsanfrage gesendet."
+
+msgid "%s sent you a message."
+msgstr "%s hat dir eine Nachricht gesendet."
+
+msgid "%s shared %s post."
+msgstr "%s hat den Beitrag von %s geteilt."
+
+msgid "%s tag already added to this group."
+msgstr "%s tag wurde bereits in die Gruppe hinzugef¸gt."
+
+msgid "(for Maestro and Solo cards only)"
+msgstr "(einzig f¸r Maestro und Solo)"
+
+msgid "(if available)"
+msgstr "(fals erhaeltlich)"
+
+msgid "2Checkout"
+msgstr "2Checkout"
+
+msgid "2Checkout payments."
+msgstr "2Checkout Zahlung."
+
+msgid "<p><b>Upgrading</b></p><p>Once you have purchased PRO addon of plugin - you'll have to enter license key (you can find it in your personal account on our site). Go to the License tab and enter your email and license key. Once you have activated your PRO license - you can use plugin pro addon.</p><p> That's all. From this moment you can use your Membership plugin without any doubt. But if you still have some question - do not hesitate to contact us through our <a href=\"https://supsystic.com/contact-us/\">internal support</a> or on our <a href=\"https://supsystic.com/forum/membership-plugin/\">Supsystic Forum</a>. Besides you can always describe your questions on <a href=\"https://wordpress.org/support/plugin/membership-by-supsystic\">WordPress Ultimate Forum</a>.</p><p><b>Enjoy this plugin?</b></p> <p>It will be nice if you'll help us and boost plugin with <a href=\"https://wordpress.org/support/plugin/membership-by-supsystic/reviews/\">Five Stars rating on WordPress.org.</a> We hope that you like this plugin and wish you all the best! Good luck!</p>"
+msgstr "<p> <b> Aktualisierung </ b> </ p> <p> Sobald Sie das PRO-Plugin-Addon erworben haben, m¸ssen Sie den Lizenzschl¸ssel eingeben (Sie finden ihn in Ihrem persˆnlichen Account auf unserer Website). Gehen Sie zur Registerkarte Lizenz und geben Sie Ihre E-Mail-Adresse und Ihren Lizenzschl¸ssel ein. Sobald Sie Ihre PRO-Lizenz aktiviert haben, koennen Sie das Plugin Pro-Addon verwenden. </ P> <p> Das ist alles. Ab diesem Moment koennen Sie Ihr Mitgliedschafts-Plugin ohne Zweifel verwenden. Aber wenn Sie noch Fragen haben, zˆgern Sie nicht, uns ¸ber unseren <a href=\"https://supystic.com/contact-us/\"> internen Support </a> oder ¸ber unsere <a href = \"https zu kontaktieren : //upsystic.com/forum/membership-plugin/ \"> Supsistic Forum </a>. Auﬂerdem kannst du deine Fragen immer im <a href=\"https://wordpress.org/support/plugin/membership-by-supssystic\"> WordPress Ultimate Forum </a> beschreiben. </ P> <p> <b> Genieﬂe dieses Plugin? </ B> </ p> <p> Es wird nett sein, wenn du uns hilfst und das Plugin mit <a href = \"https://wordpress.org/support/plugin/membership-by- supsystic / reviews / \"> F¸nf-Sterne-Bewertung auf WordPress.org. </a> Wir hoffen, dass Ihnen dieses Plugin gef‰llt und w¸nschen Ihnen alles Gute! Viel Gl¸ck! </ P>"
+
+msgid "A small guide for the first-time user"
+msgstr "Ein kleiner Leitfaden f¸r den Erstnutzer"
+
+msgid "API Password"
+msgstr "API Passwort"
+
+msgid "API Signature"
+msgstr "API Signatur"
+
+msgid "API Username"
+msgstr "API Benutzername"
+
+msgid "About"
+msgstr "Mein Profil"
+
+msgid "Accept"
+msgstr "Akzeptiert"
+
+msgid "Accept Friend Request"
+msgstr "Freundschaftsanfrage akzeptiert"
+
+msgid "Accept invitation"
+msgstr "Einladung akzeptiert"
+
+msgid "Access denied. You can't add image to this gallery."
+msgstr "Zugriff abgelehnt. Sie koennen kein Bild zu dieser Galerie hinzuf¸gen."
+
+msgid "Access denied. You can't add image to this slider."
+msgstr "Zugriff abgelehnt. Sie koennen diesem Slider kein Bild hinzuf¸gen."
+
+msgid "Access denied. You can't remove this gallery."
+msgstr "Zugriff abgelehnt. Sie koennen diese Galerie nicht entfernen."
+
+msgid "Access denied. You can't remove this image."
+msgstr "Zugriff abgelehnt. Sie koennen dieses Bild nicht entfernen."
+
+msgid "Access denied. You can't remove this slider."
+msgstr "Zugriff abgelehnt. Sie koennen diesen Slider nicht entfernen."
+
+msgid "Access is denied"
+msgstr "Der Zugriff wurde verweigert"
+
+msgid "Access to admin dashboard"
+msgstr "Zugriff auf das Admin-Dashboard"
+
+msgid "Access to specific pages"
+msgstr "Zugriff auf bestimmte Seiten"
+
+msgid "Access to this page is restricted."
+msgstr "Der Zugriff auf diese Seite ist eingeschraenkt."
+
+msgid "Access to user profiles with specific roles"
+msgstr "Zugriff auf Benutzerprofile mit bestimmten Rollen"
+
+msgid "Account"
+msgstr "Konto"
+
+msgid "Account Activation Email"
+msgstr "Kontoaktivierungs-E-Mail"
+
+msgid "Account Activation Email Body"
+msgstr "Kontoaktivierung E-Mail-Nachricht"
+
+msgid "Account Activation Email Subject"
+msgstr "Kontoaktivierungs-E-Mail-Betreff"
+
+msgid "Account Approved Email"
+msgstr "Account Approved Email"
+
+msgid "Account Approved Email Body"
+msgstr "Account Approved Email Body"
+
+msgid "Account Approved Email Subject"
+msgstr "Konto genehmigter E-Mail-Betreff"
+
+msgid "Account Deactivation Email"
+msgstr "Konto Deaktivierungs-E-Mail"
+
+msgid "Account Deactivation Email Body"
+msgstr "Konto Deaktivierungs-E-Mail-Nachricht"
+
+msgid "Account Deactivation Email Subject"
+msgstr "Konto Deaktivierungs-E-Mail-Betreff"
+
+msgid "Account Deleted Email"
+msgstr "Konto geloeschte E-Mail"
+
+msgid "Account Deleted Email Body"
+msgstr "Konto geloescht E-Mail-Nachrichtentext"
+
+msgid "Account Deleted Email Subject"
+msgstr "Konto geloescht E-Mail-Betreff"
+
+msgid "Account Deletion"
+msgstr "Loeschen des Kontos"
+
+msgid "Account Deletion Notification"
+msgstr "Kontoloeschbenachrichtigung"
+
+msgid "Account Deletion Notification Body"
+msgstr "Account Deletion Notification Body"
+
+msgid "Account Deletion Notification Subject"
+msgstr "Konto Loeschen Benachrichtigungs-Betreff"
+
+msgid "Account E-mail"
+msgstr "Konto E-Mail"
+
+msgid "Account Needs Review Notification"
+msgstr "Konto benoetigt Bewertung Benachrichtigung"
+
+msgid "Account Needs Review Notification Body"
+msgstr "Account braucht Review Notification Body"
+
+msgid "Account Needs Review Notification Subject"
+msgstr "Konto muss ueberprueft werden"
+
+msgid "Account Rejected Email"
+msgstr "Konto abgelehnt E-Mail"
+
+msgid "Account Rejected Email Body"
+msgstr "Account Abgelehnte E-Mail-Nachricht"
+
+msgid "Account Rejected Email Subject"
+msgstr "Konto abgelehnt E-Mail-Betreff"
+
+msgid "Account Welcome Email"
+msgstr "Konto Begrueﬂungs-E-Mail"
+
+msgid "Account Welcome Email Body"
+msgstr "Konto Willkommen E-Mail-Nachricht"
+
+msgid "Account Welcome Email Subject"
+msgstr "Konto Willkommen E-Mail-Betreff"
+
+msgid "Account is deleted from system."
+msgstr "Konto wird aus dem System geloescht."
+
+msgid "Account is disabled."
+msgstr "Konto ist deaktiviert."
+
+msgid "Account is in verification process."
+msgstr "Das Konto befindet sich im Ueberpruefungsprozess."
+
+msgid "Account is not approved."
+msgstr "Konto wird nicht genehmigt."
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Activate Addons"
+msgstr "Aktivieren Sie Addons"
+
+msgid "Activated"
+msgstr "Aktiviert"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Activities"
+msgstr "Aktivitaeten"
+
+msgid "Activity"
+msgstr "Aktiv"
+
+msgid "Activity Report"
+msgstr "Aktivitaet Bericht"
+
+msgid "Activity already liked"
+msgstr "Aktivitaet hat schon geliked"
+
+msgid "Activity commenting"
+msgstr "Aktivitaetskommentar"
+
+msgid "Activity content"
+msgstr "Aktivitaetsgehalt."
+
+msgid "Activity filter"
+msgstr "Aktivitaetsfilter"
+
+msgid "Activity is not found"
+msgstr "Aktivitaet wurde nicht gefunden"
+
+msgid "Activity is not liked"
+msgstr "Aktivitaet ist nicht beliebt"
+
+msgid "Activity link image preview for Amazon"
+msgstr "Vorschaubild des Aktivitaetslinks f¸r Amazon"
+
+msgid "Activity post writing"
+msgstr "Aktivitaet Post Schreiben"
+
+msgid "Activity posting is restricted"
+msgstr "Aktivitaet Posting ist eingeschraenkt"
+
+msgid "Activity type"
+msgstr "Aktivitaetsart"
+
+msgid "Activity types"
+msgstr "Aktivitaetstypen"
+
+msgid "Activity viewing"
+msgstr "Aktivitaetsanzeige"
+
+msgid "Activity with id %d is not found"
+msgstr "Aktivitaet mit der ID% d wurde nicht gefunden"
+
+msgid "Add"
+msgstr "Hinzufuegen"
+
+msgid "Add Field"
+msgstr "Feld hinzufuegen"
+
+msgid "Add Friend"
+msgstr "Freund hinzufuegen"
+
+msgid "Add Image"
+msgstr "Bild hinzufuegen"
+
+msgid "Add Marker"
+msgstr "Marker hinzufuegen"
+
+msgid "Add New"
+msgstr "Neu hinzufuegen"
+
+msgid "Add Section"
+msgstr "Sektion hinzufuegen"
+
+msgid "Add image to user name in frontend"
+msgstr "Bild zum Benutzernamen im Frontend hinzufuegen"
+
+msgid "Add logout link to menu"
+msgstr "Logout-Link zum Menue hinzufuegen"
+
+msgid "Add new"
+msgstr "Neu hinzutun"
+
+msgid "Add new post"
+msgstr "Neuen Artikel schreiben"
+
+msgid "Add new role"
+msgstr "Neue Rolle hinzutun"
+
+msgid "Add new rule"
+msgstr "Neue Regel hinzutun"
+
+msgid "Add new tag"
+msgstr "Neuen Tag hinzutun"
+
+msgid "Add remove friends"
+msgstr "F¸gen Sie Freunde entfernen hinzu"
+
+msgid "Add role depend of the user order"
+msgstr "F¸gen Sie die Rolle abh‰ngig von der Benutzerreihenfolge hinzu"
+
+msgid "Add tag"
+msgstr "Tag hinzutun"
+
+msgid "Add this option to frontend"
+msgstr "F¸gen Sie diese Option dem Frontend hinzu"
+
+msgid "Added"
+msgstr "Hinzugefuegt"
+
+msgid "Added to Cart"
+msgstr "Zum Warenkorb hinzugefuegt"
+
+msgid "Addons"
+msgstr "Addons"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Address is required"
+msgstr "Adresse ist erforderlich"
+
+msgid "Address:"
+msgstr "Adresse:"
+
+msgid "Admin Email"
+msgstr "Admin Email"
+
+msgid "Admin will get this email after some account has been deleted."
+msgstr "Der Administrator erh‰lt diese E-Mail, nachdem ein Konto geloescht wurde."
+
+msgid "Administrative permissions"
+msgstr "Administrative Berechtigungen"
+
+msgid "Administrator confirmation"
+msgstr "Administratorbest‰tigung"
+
+msgid "Administrators only can comment"
+msgstr "Administratoren koennen nur Kommentare abgeben"
+
+msgid "Administrators only can write posts"
+msgstr "Administratoren koennen nur Beitraege schreiben"
+
+msgid "After user deletes his account, he will be redirected to the main page or to the specified link."
+msgstr "Nachdem der Benutzer seinen Account geloescht hat, wird er zur Hauptseite oder zum angegebenen Link weitergeleitet."
+
+msgid "After user logs out from his account, he will be redirected to the main page or to the specified link."
+msgstr "Nachdem der Benutzer seinen Account geloescht hat, wird er zur Hauptseite oder zum angegebenen Link weitergeleitet."
+
+msgid "After user submits a login form, he will be redirected to his profile or to the specified link."
+msgstr "Nachdem der Benutzer ein Login-Formular eingereicht hat, wird er zu seinem Profil oder dem angegebenen Link weitergeleitet."
+
+msgid "After user submits a registration form, he will be redirected to his profile or to the specified link."
+msgstr "Nachdem der Benutzer ein Registrierungsformular eingereicht hat, wird er zu seinem Profil oder dem angegebenen Link weitergeleitet."
+
+msgid "All"
+msgstr "Alle"
+
+msgid "All Friends"
+msgstr "Alle Freunde"
+
+msgid "All categories"
+msgstr "Alle Kategorien"
+
+msgid "All conversations"
+msgstr "Alle Unterhaltungen"
+
+msgid "All group members can send invitations"
+msgstr "Alle Gruppenmitglieder koennen Einladungen senden"
+
+msgid "All groups"
+msgstr "Alle Gruppen"
+
+msgid "All members"
+msgstr "Alle Mitglieder"
+
+msgid "All networks"
+msgstr "Alle Netzwerke"
+
+msgid "All roles"
+msgstr "Alle Rollen"
+
+msgid "All users"
+msgstr "Alle Benutzer"
+
+msgid "All users can comment"
+msgstr "Alle Benutzer koennen kommentieren"
+
+msgid "All users can view group activity"
+msgstr "Alle Benutzer koennen Gruppenaktivit‰ten anzeigen"
+
+msgid "All users can write posts"
+msgstr "Alle Benutzer koennen Beitraege schreiben"
+
+msgid "Allow to change privacy settings"
+msgstr "ƒndern Sie die Datenschutzeinstellungen"
+
+msgid "Allow users to disable automatic sharing of friend's posts"
+msgstr "Nutzern erlauben, die automatische Freigabe von Beitr‰gen von Freunden zu deaktivieren"
+
+msgid "Allow your members share posts to several networks simultaneously in one click, making your site more famous again and again."
+msgstr "Erlauben Sie Ihren Mitgliedern, Beitraege in mehreren Netzwerken gleichzeitig mit einem Klick zu teilen, wodurch Ihre Seite immer wieder bekannter wird."
+
+msgid "Already has subscription"
+msgstr "Hat bereits ein Abonnement"
+
+msgid "Anti Bot Protection"
+msgstr "Anti-Bot-Schutz"
+
+msgid "Appear since"
+msgstr "Erscheinen seit"
+
+msgid "Apply"
+msgstr "Sich bewerben"
+
+msgid "Apply WordPress role"
+msgstr "‹bernehmen Sie die WordPress-Rolle"
+
+msgid "Approve"
+msgstr "Genehmigen"
+
+msgid "Are you sure you want to delete this category?"
+msgstr "Sind Sie sicher, dass Sie diese Kategorie lˆschen moechten?"
+
+msgid "Are you sure you want to delete this role?"
+msgstr "Mˆchten Sie diese Rolle wirklich lˆschen?"
+
+msgid "Assign to Membership Level"
+msgstr "Zuweisen auf Mitgliedschaftsstufe"
+
+msgid "Asterisk"
+msgstr "Sternchen"
+
+msgid "Asterisk color"
+msgstr "Sternchenfarbe"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Authorize in Constant Contact"
+msgstr "Autorisieren in st‰ndigem Kontakt"
+
+msgid "Authorize.net"
+msgstr "Authorize.net"
+
+msgid "Authorize.net SIM payments."
+msgstr "Authorize.net SIM payments."
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Autosubscribe new user"
+msgstr "Neuen Benutzer automatisch abonnieren"
+
+msgid "Available field data"
+msgstr "Verf¸gbare Felddaten"
+
+msgid "Available for next Membership Levels:"
+msgstr "Verf¸gbar f¸r die n‰chsten Mitgliedschaftsstufen:"
+
+msgid "Available import field names. You can add more here."
+msgstr "Verf¸gbare Importfeldnamen Sie koennen hier mehr hinzuf¸gen."
+
+msgid "Avatar Thumbnail Large Size"
+msgstr "Avatar Thumbnail Groﬂe Groesse"
+
+msgid "Avatar Thumbnail Medium Size"
+msgstr "Avatar Thumbnail Mittlere Groesse"
+
+msgid "Avatar Thumbnail Small Size"
+msgstr "Avatar Thumbnail Kleine Groesse"
+
+msgid "Back"
+msgstr "Zurueck"
+
+msgid "Back to Site"
+msgstr "Zurueck zur Website"
+
+msgid "Badge img"
+msgstr "Abzeichen img"
+
+msgid "Badges"
+msgstr "Abzeichen"
+
+msgid "Billing"
+msgstr "Abrechnung"
+
+msgid "Billing Address"
+msgstr "Rechnungsadresse"
+
+msgid "Billing Amount"
+msgstr "Rechnungsbetrag"
+
+msgid "Billing Information"
+msgstr "Abrechnungsdaten"
+
+msgid "Billing cycle limit"
+msgstr "Abrechnungszyklus-Limit"
+
+msgid "Black list of IP addresses. Enter IP addresses separated by comma or just leave this field blank if you don't need to use this option."
+msgstr "Schwarze Liste von IP-Adressen. Geben Sie IP-Adressen getrennt durch ein Komma ein oder lassen Sie dieses Feld leer, wenn Sie diese Option nicht verwenden m¸ssen."
+
+msgid "Block"
+msgstr "Block"
+
+msgid "Block activity"
+msgstr "Aktivitaet blockieren"
+
+msgid "Block group"
+msgstr "Gruppe blockieren"
+
+msgid "Block groups"
+msgstr "Gruppen blockieren"
+
+msgid "Block user"
+msgstr "Nutzer Blockieren"
+
+msgid "Blocked IP Addresses"
+msgstr "IP Adresse blockieren"
+
+msgid "Blocked users"
+msgstr "Nutzer blockieren"
+
+msgid "Bulk Actions"
+msgstr "Massenaktionen"
+
+msgid "Button text when need to extend Membership Level."
+msgstr "Schaltflaechentext, wenn Mitgliedschaftsstufe verl‰ngert werden muss."
+
+msgid "Buttons"
+msgstr "Buttons"
+
+msgid "Buy Now"
+msgstr "Jetzt Kaufen"
+
+msgid "Buy now"
+msgstr "Jetzt kaufen"
+
+msgid "By default option \"Site Accessible to Logged In Users\" hides only access to the pages of Membership plugin. If you want to hide access to all pages of your site - activate this checkbox. When opening any page of your site - all not logged in users will be redirected to the login page."
+msgstr "Standardmaessig verbirgt die Option \"F¸r angemeldete Benutzer zug‰ngliche Site\" nur den Zugriff auf die Seiten des Membership-Plugins. Wenn Sie den Zugriff auf alle Seiten Ihrer Site verbergen moechten, aktivieren Sie dieses Kontrollk‰stchen. Wenn Sie eine Seite Ihrer Website ˆffnen, werden alle nicht angemeldeten Benutzer zur Anmeldeseite weitergeleitet."
+
+msgid "Can not create Customer in Stripe"
+msgstr "Kunden koennen nicht in Stripe erstellt werden"
+
+msgid "Can not detect authorization fo account owner. Contact site owner to resolve this issue."
+msgstr "Die Autorisierung f¸r den Kontoinhaber kann nicht gefunden werden. Wenden Sie sich an den Websitebetreiber, um das Problem zu beheben."
+
+msgid "Can not find Products for this order"
+msgstr "Kann Produkte f¸r diese Bestellung nicht finden"
+
+msgid "Can not find order"
+msgstr "Kann die Reihenfolge nicht finden"
+
+msgid "Can not find required Item"
+msgstr "Kann das erforderliche Objekt nicht finden"
+
+msgid "Can not get cc obj"
+msgstr "Kann cc obj nicht bekommen"
+
+msgid "Can't detect your IP, please don't spam"
+msgstr "Kann Ihre IP nicht erkennen, bitte nicht spammen"
+
+msgid "Cancel"
+msgstr "Widerrufen"
+
+msgid "Cancel Friend Request"
+msgstr "Anfrage zur¸ckziehen"
+
+msgid "Cancel a friend request"
+msgstr "Freundschaftsanfrage abbrechen"
+
+msgid "Cancel invitation"
+msgstr "Einladung zur¸ckziehen"
+
+msgid "Cancel request"
+msgstr "Anfrage abbrechen"
+
+msgid "Cannot send email - problem with send server"
+msgstr "E-Mail kann nicht gesendet werden - Problem mit dem Sende-Server"
+
+msgid "Captcha response error."
+msgstr "Captcha-Antwortfehler."
+
+msgid "Caption"
+msgstr "Beschriftung"
+
+msgid "Card Expiry Date"
+msgstr "G¸ltig bis"
+
+msgid "Card Expiry Date: Month"
+msgstr "Kartenablaufdatum: Monat"
+
+msgid "Card Expiry Date: Year"
+msgstr "Ablaufdatum der Karte: Jahr"
+
+msgid "Card Issue Number"
+msgstr "Kartenausgabenummer"
+
+msgid "Card Number"
+msgstr "Kartennummer"
+
+msgid "Card Owner"
+msgstr "Karteninhaber"
+
+msgid "Card Security Code (CVV2)"
+msgstr "Kartensicherheitscode (CVV2)"
+
+msgid "Card Type"
+msgstr "Speicherkarten-Typ"
+
+msgid "Card Valid From Date"
+msgstr "Karte gueltig ab Datum"
+
+msgid "Card Valid From Date: Month"
+msgstr "Karte gueltig ab Datum: Monat"
+
+msgid "Card Valid From Date: Year"
+msgstr "Karte gueltig ab Datum: Jahr"
+
+msgid "Change"
+msgstr "Veraenderung"
+
+msgid "Change User Role"
+msgstr "Benutzerrolle aendern"
+
+msgid "Change User Status"
+msgstr "Aendern Sie den Benutzerstatus"
+
+msgid "Change email"
+msgstr "Aendern Sie die E-Mail"
+
+msgid "Change logo image"
+msgstr "Aendern Sie das Logo"
+
+msgid "Change password"
+msgstr "Passwort aendern"
+
+msgid "Change profile image"
+msgstr "Profilbild aendern"
+
+msgid "Changing page..."
+msgstr "Seite wechseln ..."
+
+msgid "Check your account to find your ordered User Levels."
+msgstr "Ueberpruefen Sie Ihr Konto, um Ihre bestellten Benutzerlevels zu finden."
+
+msgid "Check your email address for confirmation link."
+msgstr "Ueberpruefen Sie Ihre E-Mail-Adresse f¸r den Best‰tigungslink."
+
+msgid "Check your email for the confirmation link."
+msgstr "Checken Sie Ihre E-Mails fuer den Bestaetigungslink."
+
+msgid "Checkbox"
+msgstr "Checkbox"
+
+msgid "Checkout"
+msgstr "Checkout"
+
+msgid "Checkout Success"
+msgstr "Checkout Erfolg"
+
+msgid "Choose Gallery Preset"
+msgstr "Waehlen Sie Galerie-Vorgabe"
+
+msgid "Choose Google Maps Marker Icon"
+msgstr "Waehlen Sie das Google Maps-Markierungssymbol"
+
+msgid "Choose Google Maps Preset"
+msgstr "Waehlen Sie Google Maps-Vorgabe"
+
+msgid "Choose Google Maps, which will be used for list of google map presets and displayed for membership users on frontend"
+msgstr "Waehlen Sie Google Maps, das f¸r eine Liste von Google Map-Voreinstellungen verwendet wird und f¸r Benutzer mit Mitgliedschaft im Frontend angezeigt wird"
+
+msgid "Choose Icon"
+msgstr "Waehlen Sie Symbol"
+
+msgid "Choose Slider Preset"
+msgstr "W‰hlen Sie die Slider-Voreinstellung"
+
+msgid "Choose field(s) to enable in search"
+msgstr "Waehlen Sie die Felder aus, die bei der Suche aktiviert werden sollen"
+
+msgid "Choose galleries, which will be used for list of gallery presets and displayed for membership users on frontend"
+msgstr "Waehlen Sie Galerien aus, die f¸r die Liste der Galerie-Voreinstellungen verwendet werden und f¸r die Mitglieder der Mitglieder im Frontend angezeigt werden"
+
+msgid "Choose menus to add logout item..."
+msgstr "Waehlen Sie die Menues aus, um den Abmeldepunkt hinzuzufuegen ..."
+
+msgid "Choose sliders, which will be used for list of sliders presets and displayed for membership users on frontend"
+msgstr "Waehlen Sie den Slider, die f¸r die Liste der Schieberegler-Voreinstellungen verwendet werden und f¸r die Mitglieder der Benutzer im Frontend angezeigt werden"
+
+msgid "Circle"
+msgstr "Kreis"
+
+msgid "Clear data"
+msgstr "Daten loeschen"
+
+msgid "Clear selection"
+msgstr "Auswahl loeschen"
+
+msgid "Close"
+msgstr "Schlieﬂen"
+
+msgid "Close Tutorial"
+msgstr "Schlieﬂen Sie das Lernprogramm"
+
+msgid "Closed"
+msgstr "Geschlossen"
+
+msgid "Closed group"
+msgstr "Geschlossene Gruppe"
+
+msgid "Comment as"
+msgstr "Kommentar als"
+
+msgid "Comment can't be empty"
+msgstr "Der Kommentar darf nicht leer sein"
+
+msgid "Comment not found."
+msgstr "Kommentar nicht gefunden."
+
+msgid "Comment posting is restricted"
+msgstr "Die Veroeffentlichung von Kommentaren ist eingeschraenkt"
+
+msgid "Comments"
+msgstr "Kommentare"
+
+msgid "Community activity is disabled"
+msgstr "Community-Aktivitaet ist deaktiviert"
+
+msgid "Community type"
+msgstr "Gemeinschaftstyp"
+
+msgid "Compact"
+msgstr "Kompakt"
+
+msgid "Company Name"
+msgstr "Kompakt"
+
+msgid "Configure Google Map"
+msgstr "Konfigurieren Sie Google Map"
+
+msgid "Confirm Uninstall"
+msgstr "Bestaetigen Sie die Deinstallation"
+
+msgid "Confirm deletion (All group data will be deleted and cannot be restored)"
+msgstr "Loeschen bestaetigen (Alle Gruppendaten werden geloescht und koennen nicht wiederhergestellt werden)"
+
+msgid "Confirm deletion (All user data will be deleted and cannot be restored)"
+msgstr "Loeschen bestaetigen (Alle Benutzerdaten werden geloescht und koennen nicht wiederhergestellt werden)"
+
+msgid "Confirm password"
+msgstr "Bestaetige das Passwort"
+
+msgid "Confirm your current password to continue"
+msgstr "Bestaetigen Sie Ihr aktuelles Passwort, um fortzufahren"
+
+msgid "Confirmation link for password change is sent to your email."
+msgstr "Der Bestaetigungslink f¸r die Passwortaenderung wird an Ihre E-Mail gesendet."
+
+msgid "Confirmation link was sent to your email address. Check your email!"
+msgstr "Der Bestaetigungslink wurde an Ihre E-Mail-Adresse gesendet. Check deine E-Mails!"
+
+msgid "Confirmation sent message"
+msgstr "Bestaetigung gesendet Nachricht"
+
+msgid "Connect"
+msgstr "Verbinden"
+
+msgid "Connected Accounts"
+msgstr "Verbundene Konten"
+
+msgid "Connected Social Network Accounts"
+msgstr "Verbundene Konten f¸r soziale Netzwerke"
+
+msgid "Constant Contact Setup"
+msgstr "Konstantes Kontakt-Setup"
+
+msgid "Contact Us"
+msgstr "Kontaktiere uns"
+
+msgid "Contact us through %s if you have some question, offer or wish."
+msgstr "Kontaktieren Sie uns ¸ber %s, wenn Sie eine Frage, ein Angebot oder einen Wunsch haben."
+
+msgid "Content"
+msgstr "Inhalt"
+
+msgid "Content Settings"
+msgstr "Inhaltseinstellungen"
+
+msgid "Could you please do me a BIG favor and give it a 5-star rating on WordPress? Just to help us spread the word and boost our motivation."
+msgstr "Koenntest du mir bitte einen grossen Gefallen tun und ihm auf WordPress eine 5-Sterne-Bewertung geben? Nur um uns zu helfen, das Wort zu verbreiten und unsere Motivation zu steigern."
+
+msgid "Couldn't get the plugin to work"
+msgstr "Das Plugin konnte nicht funktionieren"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Country is required"
+msgstr "Land ist erforderlich"
+
+msgid "Cover Thumbnail Medium Size"
+msgstr "Cover Thumbnail Mittlere Groesse"
+
+msgid "Cover Thumbnail Small Size"
+msgstr "Cover Thumbnail Kleine Groesse"
+
+msgid "Create"
+msgstr "Erstellen"
+
+msgid "Create Group"
+msgstr "Gruppe erstellen"
+
+msgid "Create all unassigned pages"
+msgstr "Erstellen Sie alle nicht zugewiesenen Seiten"
+
+msgid "Create and edit mailing templates of users letters and notifications for administrator."
+msgstr "Erstellen und bearbeiten Sie Mailing-Vorlagen f¸r Benutzerbriefe und Benachrichtigungen f¸r Administratoren."
+
+msgid "Create groups"
+msgstr "Erstellen Sie Gruppen"
+
+msgid "Create new Membership Badges"
+msgstr "Erstellen Sie neue Mitgliedschaftsabzeichen"
+
+msgid "Create new Membership Currency"
+msgstr "Erstellen Sie eine neue Mitgliedschaftswaehrung"
+
+msgid "Create new Membership Drip"
+msgstr "Erstelle einen neuen Mitgliedschafts-Tropf"
+
+msgid "Create new Membership Level"
+msgstr "Erstelle eine neue Mitgliedschaftsstufe"
+
+msgid "Create new group"
+msgstr "Neue Gruppe erstellen"
+
+msgid "Create page"
+msgstr "Seite erstellen"
+
+msgid "Create user"
+msgstr "Benutzer erstellen"
+
+msgid "Currency"
+msgstr "Waehrung"
+
+msgid "Currency value (corresponding to default currency)"
+msgstr "Waehrungswert (entspricht der Standardwaehrung)"
+
+msgid "Current password is required"
+msgstr "Das aktuelle Passwort ist erforderlich"
+
+msgid "Current password was incorrect"
+msgstr "Das aktuelle Passwort war falsch"
+
+msgid "Custom text if no users were found"
+msgstr "Benutzerdefinierter Text, wenn keine Benutzer gefunden wurden"
+
+msgid "Dark"
+msgstr "Dunkel"
+
+msgid "Data exported successfully"
+msgstr "Daten wurden erfolgreich exportiert"
+
+msgid "Data successfully imported."
+msgstr "Daten wurden erfolgreich importiert."
+
+msgid "Database error"
+msgstr "Datenbankfehler"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Date Format"
+msgstr "Datum Format"
+
+msgid "Day"
+msgstr "Tag"
+
+msgid "Day(s)"
+msgstr "Tage"
+
+msgid "Decline"
+msgstr "Ablehnen"
+
+msgid "Decline Friend Request"
+msgstr "Anfrage ablehnen"
+
+msgid "Default Activity Filter"
+msgstr "Standardaktivitaetsfilter"
+
+msgid "Default Avatar Image"
+msgstr "Standard-Avatarbild"
+
+msgid "Default Cover Image"
+msgstr "Standard-Coverbild"
+
+msgid "Default Logo Image"
+msgstr "Standardlogo Bild"
+
+msgid "Default Selected"
+msgstr "Standard ausgewaehlt"
+
+msgid "Default Sort Users By"
+msgstr "Standard Benutzer sortieren nach"
+
+msgid "Default User role"
+msgstr "Standardbenutzerrolle"
+
+msgid "Delete"
+msgstr "Loeschen"
+
+msgid "Delete account"
+msgstr "Konto loeschen"
+
+msgid "Delete conversation"
+msgstr "Konversation loeschen"
+
+msgid "Delete group"
+msgstr "Gruppe loeschen"
+
+msgid "Delete messages"
+msgstr "Nachricht loeschen"
+
+msgid "Delete selected"
+msgstr "Ausgewaehlte loeschen"
+
+msgid "Delete their account"
+msgstr "Loeschen Sie ihren Account"
+
+msgid "Delete this conversation?"
+msgstr "Loeschen Sie diese Konversation?"
+
+msgid "Delete this messages?"
+msgstr "Loeschen Sie diese Nachrichten?"
+
+msgid "Deleted"
+msgstr "Geloescht"
+
+msgid "Demo Mode"
+msgstr "Demo-Modus"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Design Customization"
+msgstr "Designanpassung"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Disable double opt-in"
+msgstr "Deaktivieren Sie das Double-Opt-In"
+
+msgid "Disable double opt-in confirmation message sending. This option will create subscriber directly after he will subscribe to your list."
+msgstr "Deaktivieren Sie die Bestaetigung des Sendens von Double-Opt-In-Bestaetigungsnachrichten. Diese Option erstellt den Abonnenten direkt nachdem er Ihre Liste abonniert hat."
+
+msgid "Disabled"
+msgstr "Behindert"
+
+msgid "Disconnect"
+msgstr "Trennen"
+
+msgid "Displayed"
+msgstr "Angezeigt"
+
+msgid "Don't add friend's posts to my activity."
+msgstr "Fuegen Sie keine Beitraege zu meiner Aktivitaet hinzu."
+
+msgid "Dripping (schedule) Content"
+msgstr "Tropfen (Zeitplan) Inhalt"
+
+msgid "Dripping Content"
+msgstr "Inhalt tropft"
+
+msgid "Dropdown List"
+msgstr "Dropdown Liste"
+
+msgid "E-Commerce"
+msgstr "E-Commerce"
+
+msgid "E-Commerce (PRO)"
+msgstr "E-Commerce (PRO)"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Edit"
+msgstr "Bearbeiten"
+
+msgid "Edit or delete other users activity"
+msgstr "Bearbeiten oder loeschen Sie andere Benutzeraktivitaeten"
+
+msgid "Edit profile"
+msgstr "Profil bearbeiten"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email Address"
+msgstr "Email Addresse"
+
+msgid "Email Address is required"
+msgstr "E-Mailadresse wird benoetigt"
+
+msgid "Email address for notifications"
+msgstr "E-Mail-Adresse fuer Benachrichtigungen"
+
+msgid "Email confirmation"
+msgstr "Email Bestaetigung"
+
+msgid "Email delivery depends from your server configuration. For some cases - you and your subscribers can not receive emails just because email on your server is not working correctly. You can easy test it here - by sending test email. If you receive it - then it means that email functionality on your server works well. If not - this means that it is not working correctly and you should contact your hosting provider with this issue and ask them to setup email functionality for you on your server."
+msgstr "Die E-Mail-Zustellung haengt von Ihrer Serverkonfiguration ab. In einigen Faellen koennen Sie und Ihre Abonnenten keine E-Mails empfangen, nur weil die E-Mail auf Ihrem Server nicht ordnungsgemaeﬂ funktioniert. Sie koennen es hier einfach testen - indem Sie eine Test-E-Mail senden. Wenn Sie es erhalten - dann bedeutet dies, dass die E-Mail-Funktionalitaet auf Ihrem Server gut funktioniert. Wenn nicht - dies bedeutet, dass es nicht richtig funktioniert und Sie sollten sich mit diesem Problem an Ihren Hosting-Provider wenden und sie bitten, die E-Mail-Funktionalitaet f¸r Sie auf Ihrem Server einzurichten."
+
+msgid "Email is not valid."
+msgstr "Email ist ungueltig."
+
+msgid "Email is updated successfully"
+msgstr "Die E-Mail wurde erfolgreich aktualisiert"
+
+msgid "Email not confirmed"
+msgstr "E-Mail nicht bestaetigt"
+
+msgid "Email that will be sent to user after signing up."
+msgstr "E-Mail, die nach der Anmeldung an den Benutzer gesendet wird."
+
+msgid "Email that will get notifications about the membership society."
+msgstr "E-Mail, die Benachrichtigungen ueber die Mitgliedschaft Gesellschaft erhalten."
+
+msgid "Emails"
+msgstr "Emails"
+
+msgid "Empty API key"
+msgstr "Leerer API-Schluessel"
+
+msgid "Empty Form Data"
+msgstr "Leere Formulardaten"
+
+msgid "Empty Order ID"
+msgstr "Leere Bestellnummer"
+
+msgid "Empty Strie Token"
+msgstr "Leeres Stripe-Token"
+
+msgid "Empty User ID"
+msgstr "Leere Benutzer-ID"
+
+msgid "Empty data to save option"
+msgstr "Leere Daten zum Speichern der Option"
+
+msgid "Empty or invalid Badge Name"
+msgstr "Leerer oder ungueltiger Badge Name"
+
+msgid "Empty or invalid Code"
+msgstr "Leerer oder ungueltiger Code"
+
+msgid "Empty or invalid ID - only Update action allowed for now"
+msgstr "Leere oder ungueltige ID - nur Aktualisierungsaktion fuer jetzt erlaubt"
+
+msgid "Empty or invalid Level Name"
+msgstr "Leerer oder ungueltiger Ebenenname"
+
+msgid "Empty or invalid User Id"
+msgstr "Leere oder ungueltige Benutzer-ID"
+
+msgid "Empty or invalid email"
+msgstr "Leere oder ungueltige E-Mail"
+
+msgid "Empty payment method"
+msgstr "Leere Zahlungsmethode"
+
+msgid "Enable Cover Photo"
+msgstr "Deckblatt aktivieren"
+
+msgid "Enable Dripping for this Content"
+msgstr "Aktivieren Sie den Tropf f¸r diesen Inhalt"
+
+msgid "Enable Forum Tab"
+msgstr "Forum-Tab aktivieren"
+
+msgid "Enable Google ReCaptcha on login page."
+msgstr "Aktivieren Sie Google ReCaptcha auf der Anmeldeseite."
+
+msgid "Enable Profile Photo"
+msgstr "Aktivieren Sie das Profilfoto"
+
+msgid "Enable Search feature"
+msgstr "Suchfunktion aktivieren"
+
+msgid "Enable secondary button for Login form."
+msgstr "Aktivieren Sie die sekundaere Schaltflaeche f¸r das Anmeldeformular."
+
+msgid "Enable this option and page Activity will be created on your website."
+msgstr "Aktivieren Sie diese Option und die Seite Aktivitaet wird auf Ihrer Website erstellt."
+
+msgid "Enable this option and page Friends will be created on your website."
+msgstr "Aktivieren Sie diese Option und die Seite Freunde werden auf Ihrer Website erstellt."
+
+msgid "Enable this option and page Groups will be created on your website."
+msgstr "Aktivieren Sie diese Option und die Seite Gruppen werden auf Ihrer Website erstellt."
+
+msgid "Enable this option and page Messages will be created on your website."
+msgstr "Aktivieren Sie diese Option und die Seite Nachrichten werden auf Ihrer Website erstellt."
+
+msgid "Enable this option and users will be able to upload their Globally Recognized Avatar."
+msgstr "Aktivieren Sie diese Option, und Benutzer koennen ihren global anerkannten Avatar hochladen."
+
+msgid "Enabled"
+msgstr "Aktiviert"
+
+msgid "Enter API key - and your list will appear here"
+msgstr "Geben Sie den API-Schluessel ein - und Ihre Liste wird hier angezeigt"
+
+msgid "Enter API key, select List - and your groups will appear here"
+msgstr "Geben Sie den API-Schluessel ein, waehlen Sie Liste - und Ihre Gruppen werden hier angezeigt"
+
+msgid "Enter hashtags divided by the \",\" symbol"
+msgstr "Geben Sie Hashtags ein, die durch das Symbol \",\" geteilt werden"
+
+msgid "Enter name"
+msgstr "Name eingeben"
+
+msgid "Enter the email of admin."
+msgstr "Geben Sie die E-Mailadresse von admin ein."
+
+msgid "Enter the group title that will be defined in the browser toolbar and displayed for the page in search-engine results."
+msgstr "Geben Sie den Gruppentitel ein, der in der Symbolleiste des Browsers definiert und f¸r die Seite in den Suchergebnissen angezeigt wird."
+
+msgid "Enter the maximum size of file that can be uploaded by user in Mb."
+msgstr "Geben Sie die maximale Groesse der Datei ein, die vom Benutzer in Mb hochgeladen werden kann."
+
+msgid "Enter the profile title that will be defined in the browser toolbar and displayed for the page in search-engine results."
+msgstr "Geben Sie den Profiltitel ein, der in der Browser-Symbolleiste definiert und f¸r die Seite in den Suchergebnissen angezeigt wird."
+
+msgid "Enter the time for intervals with which messages will be updated."
+msgstr "Geben Sie die Zeit f¸r Intervalle ein, mit denen Nachrichten aktualisiert werden."
+
+msgid "Enter your Email and License Key on this page, find the information for activation in your personal account on our site %s. Then click \"Activate Addons\" button."
+msgstr "Geben Sie Ihre E-Mail-Adresse und den Lizenzschluessel auf dieser Seite ein und finden Sie die Informationen zur Aktivierung in Ihrem persoenlichen Konto auf unserer Website% s. Klicken Sie dann auf \"Addons aktivieren\""
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Error Occurred!"
+msgstr "Ein Fehler ist aufgetreten!"
+
+msgid "Error creating user with login: %s. Error message: %s"
+msgstr "Fehler beim Erstellen eines Benutzers mit Login: %s. Fehlermeldungen"
+
+msgid "Error ocured!"
+msgstr "Ein Fehler ist aufgetreten!"
+
+msgid "Error when adding a Google Map to the database"
+msgstr "Fehler beim Hinzuf¸gen einer Google Map zur Datenbank"
+
+msgid "Error when adding a gallery to the database."
+msgstr "Fehler beim Hinzufuegen einer Galerie zur Datenbank."
+
+msgid "Error when adding a slider to the database."
+msgstr "Fehler beim Hinzufuegen eines Schiebereglers zur Datenbank."
+
+msgid "Error! File not exists!"
+msgstr "Error! Datei existiert nicht!"
+
+msgid "Error! Gallery params are incorrect!"
+msgstr "Error! Galerie Parameter sind falsch!"
+
+msgid "Error! Illegal file entry!"
+msgstr "Error! Illegale Dateieingabe!"
+
+msgid "Error! Illegal file extention!"
+msgstr "Error! Illegale Dateiendung!"
+
+msgid "Error! Image params are incorrect!"
+msgstr "Error! Bildparameter sind falsch!"
+
+msgid "Error! Incorrect GoogleMaps params!"
+msgstr "Error! Falsche GoogleMaps-Parameter!"
+
+msgid "Error! Incorrect Upload file params!"
+msgstr "Error! Falsche Dateiparameter hochladen!"
+
+msgid "Error! Incorrect gallery params!"
+msgstr "Error! Falsche Galerie params!"
+
+msgid "Error! Incorrect slider params!"
+msgstr "Error! Falscher Schieberegler params!"
+
+msgid "Error! Insert Attachment Type. Db error #1"
+msgstr "Error! Anlagetyp einf¸gen DB-Fehler # 1"
+
+msgid "Error! Slider params are incorrect!"
+msgstr "Error! Slider Params sind falsch!"
+
+msgid "Error! The maximum length is 204 characters"
+msgstr "Error! Die maximale L‰nge betr‰gt 204 Zeichen"
+
+msgid "Establish your privacy settings for you local social network."
+msgstr "Richten Sie Ihre Datenschutzeinstellungen f¸r Ihr lokales soziales Netzwerk ein."
+
+msgid "Every user must have at least %s field specified."
+msgstr "Jeder Benutzer muss mindestens % s-Feld angegeben haben."
+
+msgid "Everyone"
+msgstr "Jeder"
+
+msgid "Exceeded filesize limit."
+msgstr "Dateigrˆﬂenlimit ¸berschritten."
+
+msgid "Expired"
+msgstr "Abgelaufen"
+
+msgid "Export"
+msgstr "Export"
+
+msgid "Export data from activity"
+msgstr "Daten aus Aktivitaeten exportieren"
+
+msgid "Export data from activity by hashtags"
+msgstr "Exportieren Sie Daten aus Aktivitaeten mit Hashtags"
+
+msgid "Export to CSV"
+msgstr "In CSV exportieren"
+
+msgid "Extend"
+msgstr "Erweitern"
+
+msgid "Extend Level button text"
+msgstr "Erweitern Sie die Ebene Schaltflaeche Text"
+
+msgid "Extensions"
+msgstr "Erweiterungen"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+msgid "Facebook App Secret"
+msgstr "Facebook App Secret"
+
+msgid "Failed to import posts."
+msgstr "Fehler beim Importieren von Posts."
+
+msgid "Failed to update last export data"
+msgstr "Die letzten Exportdaten konnten nicht aktualisiert werden"
+
+msgid "Favorites"
+msgstr "Favoriten"
+
+msgid "Feel free to contact us and don't worry, everything will be cool!"
+msgstr "Fuehlen Sie sich frei, uns zu kontaktieren und keine Sorge, alles wird cool!"
+
+msgid "Field user_login is required. Passed data: %s. Skipped."
+msgstr "Das Feld user_login ist erforderlich. Uebergebene Daten:% s. Uebersprungen."
+
+msgid "File entry error!"
+msgstr "Dateieingabefehler!"
+
+msgid "Find group..."
+msgstr "Finde Gruppe..."
+
+msgid "Find user..."
+msgstr "Finde Benutzer..."
+
+msgid "Finish"
+msgstr "Fertig"
+
+msgid "First"
+msgstr "Zuerst"
+
+msgid "First Name"
+msgstr "Vorname"
+
+msgid "First Name Last Name"
+msgstr "Vorname Nachname"
+
+msgid "First Name is required"
+msgstr "Vorname ist erforderlich"
+
+msgid "Follow"
+msgstr "Folgen"
+
+msgid "Follow unfollow users"
+msgstr "Folge nicht angemeldeten Benutzern"
+
+msgid "Followers"
+msgstr "Folgen Mir"
+
+msgid "Following"
+msgstr "Folgen"
+
+msgid "Follows"
+msgstr "Folgt"
+
+msgid "Follows me"
+msgstr "Folgt Mir"
+
+msgid "Fonts"
+msgstr "Fonts"
+
+msgid "For example:"
+msgstr "Beispielsweise:"
+
+msgid "Forgot your password?"
+msgstr "Haben Sie Ihr Passwort vergessen?"
+
+msgid "Forum"
+msgstr "Forum"
+
+msgid "Found %d users"
+msgstr "Gefunden %d Benutzer"
+
+msgid "Fractional precision"
+msgstr "Bruchgenauigkeit"
+
+msgid "Fractional separator"
+msgstr "Bruchtrennzeichen"
+
+msgid "Friend Requests"
+msgstr "Freundschaftsanfragen"
+
+msgid "Friends"
+msgstr "Freunde"
+
+msgid "Friends of friends"
+msgstr "Freunde von Freunden"
+
+msgid "Friends only"
+msgstr "Nur Freunde"
+
+msgid "Friends/Followers Notification Body"
+msgstr "Benachrichtigungsstelle f¸r Freunde / Follower"
+
+msgid "Friends/Followers Notification Subject"
+msgstr "Freunde / Follower Benachrichtigung Betreff"
+
+msgid "From"
+msgstr "Von"
+
+msgid "Gallery Images"
+msgstr "Bildgalarie"
+
+msgid "Gallery Name"
+msgstr "Galleriename"
+
+msgid "General"
+msgstr "Generel"
+
+msgid "General Options"
+msgstr "Generelle Optionen"
+
+msgid "Get PRO Addon"
+msgstr "Holen Sie sich PRO Addon"
+
+msgid "Get Pro"
+msgstr "Werde professoinell"
+
+msgid "Get new password"
+msgstr "Bekomme ein neues Passwort"
+
+msgid "Get this from your 2Checkout account. This should be present here to validate responce from 2Checkout!"
+msgstr "Holen Sie das von Ihrem 2Checkout Konto. Dies sollte hier vorhanden sein, um die Antwort von 2Checkout zu validieren!"
+
+msgid "Global Site Access"
+msgstr "Zugriff auf globale Websites"
+
+msgid "Global activity page"
+msgstr "Globale Aktivit‰tsseite"
+
+msgid "Google ReCaptcha"
+msgstr "Google ReCaptcha"
+
+msgid "Google ReCaptcha Secret Key"
+msgstr "Google ReCaptcha geheimer Schluessel"
+
+msgid "Google ReCaptcha Site Key"
+msgstr "Google ReCaptcha Seitenschl¸ssel"
+
+msgid "Google ReCaptcha Size"
+msgstr "Google ReCaptcha Groesse"
+
+msgid "Google ReCaptcha Theme"
+msgstr "Google ReCaptcha Theme"
+
+msgid "Google ReCaptcha Type"
+msgstr "Google ReCaptcha Typ"
+
+msgid "GoogleMaps Name"
+msgstr "GoogleMaps Name"
+
+msgid "Group Category"
+msgstr "Gruppenkategorie"
+
+msgid "Group Category List"
+msgstr "Gruppenkategorieliste"
+
+msgid "Group Cover Size"
+msgstr "Gruppenabdeckungsgrˆﬂe"
+
+msgid "Group Description"
+msgstr "Gruppenbeschreibung"
+
+msgid "Group Dynamic Meta Description"
+msgstr "Gruppendynamische Meta-Beschreibung"
+
+msgid "Group ID"
+msgstr "Gruppen ID"
+
+msgid "Group Logo Size"
+msgstr "Gruppenlogo Groesse"
+
+msgid "Group Name"
+msgstr "Guppenname"
+
+msgid "Group Permalink Base"
+msgstr "Gruppe Permalink-Basis"
+
+msgid "Group Permalink Base: Select what data to use in the group's link. E.g. \"http://supsystic/groups/culinary-blog/\" or \"http://supsystic/groups/1/\"."
+msgstr "Gruppe Permalink Base: W‰hlen Sie aus, welche Daten in der Gruppenverkn¸pfung verwendet werden sollen. Z.B. \"http: // supsystic / groups / culinary-blog /\" oder \"http: // supsystic / groups / 1 /\"."
+
+msgid "Group Title"
+msgstr "Gruppentitel"
+
+msgid "Group alias"
+msgstr "Gruppenalias"
+
+msgid "Group by"
+msgstr "Gruppiere nach"
+
+msgid "Group category name:"
+msgstr "Name der Gruppenkategorie:"
+
+msgid "Group data successfully updated"
+msgstr "Gruppendaten wurden erfolgreich aktualisiert"
+
+msgid "Group deletion"
+msgstr "Gruppenloeschung"
+
+msgid "Group does not exists"
+msgstr "Gruppe existiert nicht"
+
+msgid "Group does not exists, or user not a member of this group"
+msgstr "Gruppe existiert nicht oder Benutzer ist kein Mitglied dieser Gruppe"
+
+msgid "Group does not exists."
+msgstr "Gruppe existiert nicht."
+
+msgid "Group for subscribe"
+msgstr "Gruppe zum Abonnieren"
+
+msgid "Group invites"
+msgstr "Gruppe l‰dt ein"
+
+msgid "Group is blocked"
+msgstr "Gruppe ist blockiert"
+
+msgid "Group is blocked by administrator"
+msgstr "Gruppe wird vom Administrator blockiert"
+
+msgid "Group logo picture"
+msgstr "Gruppenlogobild"
+
+msgid "Group members only can comment"
+msgstr " Nur Gruppenmitglieder koennen kommentieren"
+
+msgid "Group members only can view activity"
+msgstr "nur Gruppenmitglieder koennen nur Aktivitaeten anzeigen"
+
+msgid "Group members only can write posts"
+msgstr "Gruppenmitglieder koennen nur Beitraege schreiben"
+
+msgid "Group name is required"
+msgstr "Gruppenname ist erforderlich"
+
+msgid "Group settings"
+msgstr "Gruppeneinstellungen"
+
+msgid "Group successfully created."
+msgstr "Gruppe erfolgreich erstellt."
+
+msgid "Group that are you looking is not found."
+msgstr "Die Gruppe, nach der Sie suchen, wird nicht gefunden."
+
+msgid "Group was deleted."
+msgstr "Gruppe wurde geloescht."
+
+msgid "Group with given id does not exists."
+msgstr "Gruppe mit der angegebenen ID existiert nicht."
+
+msgid "Groups"
+msgstr "Gruppen"
+
+msgid "Groups are disabled by site administrator."
+msgstr "Gruppen werden vom Site-Administrator deaktiviert."
+
+msgid "Groups option is Turn Off, you can turn it On on the Main settings tab or click <a href=\"%s\">here</a>."
+msgstr "Die Gruppenoption ist Aus, Sie koennen sie auf der Registerkarte Haupteinstellungen aktivieren oder auf <a href=\"%s\"> hier </a> klicken."
+
+msgid "Help Icon Background Color"
+msgstr "Hilfe-Symbol Hintergrundfarbe"
+
+msgid "Help Icon Color"
+msgstr "Hilfe Icon Farbe"
+
+msgid "Here is possible to adjust external user's profiles look, Registration —Åonfirmation and others."
+msgstr "Hier ist es moeglich, die Profile der externen Benutzerprofile, die Registrierung \"on firmation\" und andere anzupassen."
+
+msgid "Here is you profile link."
+msgstr "Hier ist dein Profillink."
+
+msgid "Here you can adjust main settings of the site page and enter your admin email."
+msgstr "Hier koennen Sie die Haupteinstellungen der Website anpassen und Ihre Admin-E-Mail-Adresse eingeben."
+
+msgid "Hey, I noticed you just use Membership by Supsystic over a week ‚Äì that‚Äôs awesome!"
+msgstr "Hey, ich habe bemerkt, dass du nur die Mitgliedschaft von Supsystic ¸ber eine Woche benutzt hast ‚Äì that‚Äôs  das ist groﬂartig!"
+
+msgid ""
+"Hi {display_name}\n"
+"This is an automated email to let you know your {site_name} account has been deactivated.\n"
+"I you would like your account to be reactivated please contact us at {admin_email}\n"
+"Thanks, {site_name}"
+msgstr ""
+"Hallo {display_name}\n"
+"Dies ist eine automatisierte E-Mail, die Sie darueber informiert, dass Ihr Konto {site_name} deaktiviert wurde.\n"
+"Wenn Sie moechten, dass Ihr Konto reaktiviert wird, kontaktieren Sie uns bitte unter {admin_email}.\n"
+"Danke, {site_name}"
+
+msgid ""
+"Hi {display_name}.\t\t \n"
+"Thank you for applying for membership to {site_name}!\n"
+"We have reviewed your information and unfortunately we are unable to accept you as a member at this moment.\n"
+"Please feel free to apply again at a future date.\n"
+"\n"
+"Thanks, {site_name}"
+msgstr ""
+"Hallo {display_name}.\t\t \n"
+"\n"
+"Vielen Dank, dass Sie sich f¸r die Mitgliedschaft bei {site_name} beworben haben!\n"
+"Wir haben Ihre Daten ueberprueft und koennen Sie leider nicht als Mitglied akzeptieren.\n"
+"Bitte zoegern Sie nicht, sich zu einem spaeteren Zeitpunkt erneut zu bewerben.\n"
+"\n"
+"Danke, {site_name}"
+
+msgid ""
+"Hi {display_name}.\n"
+"Thank you for signing up with {site_name}!\n"
+"\n"
+"To login please visit the following url: \n"
+"\n"
+"<a href=\"{login_url}\">{login_url}</a>\n"
+"\n"
+"Your account e-mail: {email}\n"
+"\n"
+"Your account username: {username}\n"
+"\n"
+"Your account password: {password}\n"
+"\n"
+"If you have any problems, please contact us at {admin_email}\n"
+"\n"
+"Thanks, {site_name}"
+msgstr ""
+"Hi {display_name}.\n"
+"\n"
+"Vielen Dank f¸r die Anmeldung mit {site_name}!\n"
+"\n"
+"Um sich anzumelden, besuchen Sie bitte folgende URL:\n"
+"\n"
+"<a href=\"{login_url}\"> {login_url} </a>\n"
+"\n"
+"Ihre Konto-E-Mail-Adresse: {email}\n"
+"\n"
+"Ihr Kontoname: {Benutzername}\n"
+"\n"
+"Ihr Kontopasswort: {Passwort}\n"
+"\n"
+"Wenn Sie Probleme haben, kontaktieren Sie uns bitte unter {admin_email}\n"
+"\n"
+"Thanks, {site_name}"
+
+msgid ""
+"Hi {display_name}.\n"
+"Thank you for signing up with {site_name}!\n"
+"Your account has been approved and is now active.\n"
+"To login please visit the following url: <a href=\"{login_url}\">{login_url}</a>\n"
+"Your account e-mail: {email}\n"
+"Your account username: {username}\n"
+"Your account password: {password}\n"
+"If you have any problems, please contact us at {admin_email}\n"
+"\n"
+"Thanks, {site_name}"
+msgstr ""
+"Hallo {display_name}.\n"
+"Vielen Dank f¸r die Anmeldung mit {site_name}!\n"
+"Ihr Konto wurde genehmigt und ist jetzt aktiv.\n"
+"Um sich anzumelden, besuchen Sie bitte die folgende URL: <a href=\"{login_url}\"> {login_url} </a>\n"
+"Ihre Konto-E-Mail-Adresse: {email}\n"
+"Ihr Kontoname: {Benutzername}\n"
+"Ihr Kontopasswort: {Passwort}\n"
+"Wenn Sie Probleme haben, kontaktieren Sie uns bitte unter {admin_email}\n"
+"\n"
+"Danke, {site_name}"
+
+msgid ""
+"Hi {display_name}.\n"
+"Thank you for signing up with {site_name}!\n"
+"Your account is currently being reviewed by a member of our team.\n"
+"Please allow us some time to process your request.\n"
+"If you have any problems, please contact us at {admin_email}\n"
+"\n"
+"Thanks, {site_name}"
+msgstr ""
+"Hallo  {display_name}.\n"
+"Vielen Dank f¸r die Anmeldung mit {site_name}!\n"
+"Ihr Konto wird derzeit von einem Mitglied unseres Teams ¸berpr¸ft.\n"
+"Bitte erlauben Sie uns etwas Zeit, Ihre Anfrage zu bearbeiten.\n"
+"Wenn Sie Probleme haben, kontaktieren Sie uns bitte unter {admin_email}\n"
+"\n"
+"Danke, {site_name}"
+
+msgid ""
+"Hi {display_name}.\n"
+"This is an automated email to let you know your {site_name} account has been deleted.\n"
+"All of your personal information has been permanently deleted and you will no longer be able to login to {site_name}.\n"
+"\n"
+"If your account has been deleted by accident please contact us at {admin_email}\n"
+"\n"
+"Thanks, {site_name}"
+msgstr ""
+"Hallo {display_name}.\n"
+"Dies ist eine automatisierte E-Mail, die Sie darueber informiert, dass Ihr {site_name} -Konto geloescht wurde.\n"
+"Alle Ihre persoenlichen Daten wurden endgueltig geloescht und Sie koennen sich nicht mehr in {site_name} einloggen.\n"
+"\n"
+"Wenn Ihr Konto versehentlich geloescht wurde, kontaktieren Sie uns unter {admin_email}\n"
+"\n"
+"Danke, {site_name}"
+
+msgid ""
+"Hi {display_name}.\n"
+"We received a request to reset the password for your account.\n"
+"If you made this request, click the link below to change your password:\n"
+"<a href=\"{password_reset_link}\">{password_reset_link}</a>\n"
+"\n"
+"If you didn't make this request, you can ignore this email\n"
+"\n"
+"Thanks, {site_name}"
+msgstr ""
+"Hallo  {display_name}.\n"
+"\n"
+"Wir haben eine Anfrage zum Zuruecksetzen des Passworts f¸r Ihr Konto erhalten.\n"
+"Wenn Sie diese Anfrage gestellt haben, klicken Sie auf den folgenden Link, um Ihr Passwort zu aendern:\n"
+"<a href=\"{password_reset_link}\"> {password_reset_link} </a>\n"
+"\n"
+"Wenn Sie diese Anfrage nicht gestellt haben, koennen Sie diese E-Mail ignorieren\n"
+"\n"
+"Danke, {site_name}"
+
+msgid ""
+"Hi {display_name}.\n"
+"You have new {friend_follower}.\n"
+"–°heck it <a target=\"_blank\" href=\"{followers_url}\">here</a>"
+msgstr ""
+"Hi {display_name}.\n"
+"Du hast einen neuen {Freund_Followers}.\n"
+"‹berpr¸fen Sie <a target=\"_blank\" href=\"{followers_url}\"> hier </a>"
+
+msgid ""
+"Hi {display_name}.\n"
+"You recently have requested for changing the password associated with your {site_name} account.\n"
+"To confirm your request please visit the following url: <a href=\"{password_change_url}\">{password_change_url}</a>\n"
+"If you did not make this change and believe your {site_name} account has been compromised, please contact us at the following email address: {admin_email}\n"
+"\n"
+"Thanks, {site_name}"
+msgstr ""
+"Hi {display_name}.\n"
+"Sie haben kuerzlich eine Aenderung des Passworts f¸r Ihr Konto {site_name} angefordert.\n"
+"Um Ihre Anfrage zu bestaetigen, besuchen Sie bitte die folgende URL: <a href=\"{password_change_url}\"> {password_change_url} </a>\n"
+"Falls Sie diese Aenderung nicht vorgenommen haben und der Verdacht besteht, dass Ihr {site_name} -Konto kompromittiert wurde, wenden Sie sich unter der folgenden E-Mail-Adresse an uns: {admin_email}\n"
+"\n"
+"Danke, {site_name}"
+
+msgid "Hide ordered Membership Levels"
+msgstr "Bestellte Mitgliedschaftsebenen ausblenden"
+
+msgid "Hope you will come back."
+msgstr "Ich hoffe, du kommst zur¸ck."
+
+msgid "Hour"
+msgstr "Stunde"
+
+msgid "Hour(s)"
+msgstr "Stunden"
+
+msgid "I already did"
+msgstr "Ich habe es bereits getan"
+
+msgid "I found a better plugin"
+msgstr "Ich habe ein besseres Plugin gefunden"
+
+msgid "I no longer need the plugin"
+msgstr "Ich brauche das Plugin nicht mehr"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IPN Address"
+msgstr "IPN Addresse"
+
+msgid "ISO Code"
+msgstr "ISO Code"
+
+msgid "Icon"
+msgstr "Icon"
+
+msgid "Icon:"
+msgstr "Icon:"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "If buy next products"
+msgstr "Wenn Sie die naechsten Produkte kaufen"
+
+msgid "If it's possible, specify plugin name"
+msgstr "Wenn es moeglich ist, geben Sie den Namen des Plugins an"
+
+msgid "If the %s field is not specified then the password will be the same as the %s field."
+msgstr "Wenn das Feld %s nicht angegeben ist, entspricht das Passwort dem Feld %s."
+
+msgid "If the user with the specified username or email already exists then inserting fields data will be ignored."
+msgstr "Wenn der Benutzer mit dem angegebenen Benutzernamen oder der angegebenen E-Mail-Adresse bereits vorhanden ist, wird das Einf¸gen von Datenfeldern ignoriert."
+
+msgid "If this option is enabled an avatar will be displayed near user's name."
+msgstr "Wenn diese Option aktiviert ist, wird ein Avatar in der Naehe des Benutzernamens angezeigt."
+
+msgid "If this option is enabled users will be able to upload the second image behind the avatar image. It is kind of background image."
+msgstr "Wenn diese Option aktiviert ist, koennen Benutzer das zweite Bild hinter dem Avatarbild hochladen. Es ist eine Art Hintergrundbild."
+
+msgid "If this option is enabled, \"Remember me\" checkbox will be shown in login form."
+msgstr "Wenn diese Option aktiviert ist, wird das Kontrollk‰stchen \"Angemeldet bleiben\" im Anmeldeformular angezeigt."
+
+msgid "If this option is enabled, authorized members can swich tabs (friends, follows, followers) on Member page."
+msgstr "Wenn diese Option aktiviert ist, koennen autorisierte Mitglieder Tabs (Freunde, Follower, Follower) auf der Mitgliederseite wechseln."
+
+msgid "If this option is enabled, only members with avatar will be shown."
+msgstr "Wenn diese Option aktiviert ist, werden nur Mitglieder mit Avatar angezeigt."
+
+msgid "If this option is enabled, only members with cover photo will be shown on \"Members\" tab."
+msgstr "Wenn diese Option aktiviert ist, werden nur Mitglieder mit Titelbild auf der Registerkarte \"Mitglieder\" angezeigt."
+
+msgid "If this option is enabled, profile name will be shown in header."
+msgstr "Wenn diese Option aktiviert ist, wird der Profilname in der Kopfzeile angezeigt."
+
+msgid "If this option is enabled, the default colors of your theme will be used."
+msgstr "Wenn diese Option aktiviert ist, werden die Standardfarben Ihres Themas verwendet."
+
+msgid "If you have a moment, please share why you are deactivating Membership by Supsystic"
+msgstr "Wenn Sie einen Moment Zeit haben, teilen Sie uns bitte mit, warum Sie die Mitgliedschaft bei Supsystic deaktivieren"
+
+msgid "If you have a question, <a href=\"%s\" target=\"_blank\">contact us</a> and will do our best to help you"
+msgstr "Wenn Sie eine Frage haben, <a href=\"%s\" target=\"_blank\"> kontaktieren Sie uns </a> und wir werden unser Bestes tun, um Ihnen zu helfen"
+
+msgid "If, unfortunately, you have some problem - we are always ready to help you in our %s."
+msgstr "Wenn Sie leider ein Problem haben - wir sind immer bereit Ihnen in unseren %s zu helfen."
+
+msgid "Image"
+msgstr "Bild"
+
+msgid "Image Quality"
+msgstr "Bildqualitaet"
+
+msgid "Image size limit is exceeded"
+msgstr "Bildgroeﬂenbeschraenkung wurde ueberschritten"
+
+msgid "Import"
+msgstr "Import"
+
+msgid "Import Activity"
+msgstr "Import Aktivitaet"
+
+msgid "Import Buddy Press Data"
+msgstr "Import Buddy Press Daten"
+
+msgid "Import Data"
+msgstr "Import Daten"
+
+msgid "Import Friends"
+msgstr "Import Freunde"
+
+msgid "Import Groups"
+msgstr "Import Gruppen"
+
+msgid "Import Ultimate Member Data"
+msgstr "Import Ultimate Member Daten"
+
+msgid "Import User Fields"
+msgstr "Benutzerfelder importieren"
+
+msgid "Import completed successfully"
+msgstr "Import erfolgreich abgeschlossen"
+
+msgid "Import data to activity"
+msgstr "Daten in Aktivit‰t importieren"
+
+msgid "Import data to activity by hashtags"
+msgstr "Importieren Sie Daten mit Hashtags in Aktivitaeten"
+
+msgid "Import from csv"
+msgstr "Import von CSV"
+
+msgid "Import users from CSV"
+msgstr "Importieren Sie Benutzer aus CSV"
+
+msgid "Importing completed with errors"
+msgstr "Der Import wurde mit Fehlern abgeschlossen"
+
+msgid "In MailChimp there is possibility to select groups for your subscribers. This is not mandatory, but sometimes it is really helpful. So, we added this possibility for you in our plugin - hope you will like it!"
+msgstr "In MailChimp gibt es die Moeglichkeit, Gruppen fuer Ihre Abonnenten auszuwaehlen. Dies ist nicht obligatorisch, aber manchmal ist es sehr hilfreich. Also, wir haben diese Moeglichkeit f¸r Sie in unserem Plugin hinzugef¸gt - ich hoffe, Sie werden es moegen!"
+
+msgid "Indeed, Membership is a very easy-to-use plugin and it consists of various exciting options at the same time. So after you close this page we will demonstrate you the main of them with step-by-step tutorial. For the first time we will help you to tune your Membership, but if you will need our help, please, contact us via our %s."
+msgstr "In der Tat, Mitgliedschaft ist ein sehr einfach zu bedienendes Plugin und es besteht aus verschiedenen spannenden Optionen zur gleichen Zeit. Also, nachdem Sie diese Seite geschlossen haben, werden wir Ihnen die wichtigsten von ihnen mit Schritt-f¸r-Schritt-Tutorial demonstrieren. Zum ersten Mal werden wir Ihnen helfen, Ihre Mitgliedschaft zu optimieren, aber wenn Sie unsere Hilfe benoetigen, kontaktieren Sie uns bitte ¸ber unsere %s."
+
+msgid "Input Background Color"
+msgstr "Hintergrundfarbe eingeben"
+
+msgid "Input Background Focus Color"
+msgstr "Eingabe Hintergrund Fokusfarbe"
+
+msgid "Input Border Color"
+msgstr "Eingabefarbfarbe"
+
+msgid "Input Border Focus Color"
+msgstr "Eingabefokus-Fokusfarbe"
+
+msgid "Input Placeholder Color"
+msgstr "Eingabe der Platzhalterfarbe"
+
+msgid "Inputs"
+msgstr "Inputs"
+
+msgid "Insert Attachment. Db error #2"
+msgstr "Anhang einfuegen DB-Fehler # 2"
+
+msgid "Insert this URL to your %s account as IPN address - to make IPN system work as it should."
+msgstr "Fuegen Sie diese URL als IPN-Adresse in Ihr %s Konto ein, damit das IPN-System ordnungsgemaeﬂ funktioniert."
+
+msgid "Install"
+msgstr "Installieren"
+
+msgid "Integrate Membership with your Facebook App."
+msgstr "Integriere die Mitgliedschaft mit deiner Facebook App."
+
+msgid "Integrations"
+msgstr "Integration"
+
+msgid "Invalid ID"
+msgstr "Ungueltige ID"
+
+msgid "Invalid login or password."
+msgstr "Ungueltiger Anmeldename oder Passwort."
+
+msgid "Invalid token. Please refresh page."
+msgstr "Ungueltiger Token Bitte aktualisieren Sie die Seite."
+
+msgid "Invalid username or email."
+msgstr "Ungueltiger Benutzername oder E-Mail-Adresse"
+
+msgid "Invitations"
+msgstr "Einladungen"
+
+msgid "Invite"
+msgstr "Einladen"
+
+msgid ""
+"Invite\n"
+"\t\t\t\t\t\t\t\t\tadministrators"
+msgstr ""
+"Invite\n"
+"\t\t\t\t\t\t\t\t\tadministrators"
+
+msgid "Invite administrators"
+msgstr "Laden Sie Administratoren ein"
+
+msgid "Invite as administrator"
+msgstr "Als Administrator einladen"
+
+msgid "Invite friends"
+msgstr "Freunde einladen"
+
+msgid "Invite users"
+msgstr "Nutzer einladen"
+
+msgid "Invited users"
+msgstr "Eingeladene Benutzer"
+
+msgid "Invites"
+msgstr "Laedt ein"
+
+msgid "Is default?"
+msgstr "Ist Standard?"
+
+msgid "It's a temporary deactivation"
+msgstr "Es ist eine vor¸bergehende Deaktivierung"
+
+msgid "Join group"
+msgstr "Gruppe beitreten"
+
+msgid "Join groups"
+msgstr "Gruppen beitreten"
+
+msgid "Join requests"
+msgstr "Anfragen beitreten"
+
+msgid "Joined Groups"
+msgstr "Registrierte Gruppen"
+
+msgid "Joined Groups tab"
+msgstr "Registrierte Gruppen"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "Last"
+msgstr "Zuletzt"
+
+msgid "Last Name"
+msgstr "Nachname"
+
+msgid "Last Name First Name"
+msgstr "Vorname Nachname"
+
+msgid "Last Name is required"
+msgstr "Nachname ist erforderlich"
+
+msgid "Last seen"
+msgstr "Zuletzt gesehen"
+
+msgid "Latitude:"
+msgstr "Breite:"
+
+msgid "Leave group"
+msgstr "Gruppe verlassen"
+
+msgid "Let your users register and login easily via Facebook or Twitter accounts."
+msgstr "Lassen Sie Ihre Nutzer sich einfach ¸ber Facebook- oder Twitter-Accounts anmelden und einloggen."
+
+msgid "Let's Start!"
+msgstr "Lasst uns beginnen!"
+
+msgid "Let's make a quick tour through features and main options of the plugin. Just click \"Next\" button."
+msgstr "Machen wir einen kurzen Ueberblick ueber die Funktionen und Hauptoptionen des Plugins. Klicken Sie einfach auf \"Weiter\"."
+
+msgid "Level"
+msgstr "Level"
+
+msgid "Level Purchase (can be with Registration)"
+msgstr "Level-Kauf (kann mit Registrierung sein)"
+
+msgid "License"
+msgstr "Lizenz"
+
+msgid "License Key"
+msgstr "Lizenzschl¸ssel"
+
+msgid "License server error"
+msgstr "Lizenzserverfehler"
+
+msgid "Light"
+msgstr "Leicht"
+
+msgid "Like"
+msgstr "Like"
+
+msgid "Liked activity  is not exist"
+msgstr "Gelikte Aktivitaet ist nicht vorhanden"
+
+msgid "Liked activity is not exist"
+msgstr "Geliebte Aktivitaet ist nicht vorhanden"
+
+msgid "Likes"
+msgstr "Likes"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Lists for subscribe"
+msgstr "Listen zum Abonnieren"
+
+msgid "Load more"
+msgstr "Mehr laden"
+
+msgid "Log in"
+msgstr "Anmelden"
+
+msgid "Log in with"
+msgstr "Anmelden mit"
+
+msgid "Login"
+msgstr "Anmelden"
+
+msgid "Login ID"
+msgstr "Anmelden ID"
+
+msgid "Login Primary Button Text"
+msgstr "Login Prim‰re Schaltflaeche Text"
+
+msgid "Login Secondary Button"
+msgstr "Login Sekund‰rtaste"
+
+msgid "Login Secondary Button Text"
+msgstr "Login zweiter Schaltflaechen Text"
+
+msgid "Login Secondary Button URL"
+msgstr "Login zweiter Schaltflaechen Text"
+
+msgid "Login after success Registration"
+msgstr "Login nach erfolgter Registrierung"
+
+msgid "Login error"
+msgstr "Abmelden Fehler"
+
+msgid "Logo Thumbnail Large Size"
+msgstr "Logo Thumbnail groﬂe Groesse"
+
+msgid "Logo Thumbnail Medium Size"
+msgstr "Logo Thumbnail mittlere Groesse"
+
+msgid "Logo Thumbnail Small Size"
+msgstr "Logo Thumbnail kleine Groesse"
+
+msgid "Logout"
+msgstr "Abmelden"
+
+msgid "Longitude:"
+msgstr "Laengengrad:"
+
+msgid "Mail appears from"
+msgstr "Mail erscheint von"
+
+msgid "Mail appears from address"
+msgstr "Mail erscheint von der Adresse"
+
+msgid "MailChimp API key"
+msgstr "MailChimp API Schluessel"
+
+msgid "Mails"
+msgstr "Mails"
+
+msgid "Mails Configuration"
+msgstr "Maileinstellungen"
+
+msgid "Main"
+msgstr "Hauptseite"
+
+msgid "Main Settings"
+msgstr "Einstellungen f¸r Hauptseite"
+
+msgid "Make sure you assigned Membership Level for this Content before enable Dripping."
+msgstr "Stellen Sie sicher, dass Sie Mitgliedschaftsstufe f¸r diesen Inhalt zugewiesen haben, bevor Sie das Tropfprogramm aktivieren."
+
+msgid "Managed Groups"
+msgstr "Verwaltete Gruppen"
+
+msgid "Maps params was saved success"
+msgstr "Maps Params wurde erfolgreich gespeichert"
+
+msgid "Mark all as read"
+msgstr "Alles als gelesen markieren"
+
+msgid "Mark as read and close"
+msgstr "Als gelesen markieren und schlieﬂen"
+
+msgid "Mark as unread and close"
+msgstr "Als ungelesen markieren und schlieﬂen"
+
+msgid "Marker Description:"
+msgstr "Marker Beschreibung:"
+
+msgid "Marker Name:"
+msgstr "Marker Name:"
+
+msgid "Markers list"
+msgstr "Markierungsliste"
+
+msgid "Maximum File Size (Mb)"
+msgstr "Maximale Dateigroesse (Mb)"
+
+msgid "Maximum Image Size"
+msgstr "Maximale Bildgroesse"
+
+msgid "Maximum available file upload size is %d Mb"
+msgstr "Die maximal verfuegbare Datei-Upload-Groesse ist %d Mb"
+
+msgid "Maximum number of profiles"
+msgstr "Maximale Anzahl an Profilen"
+
+msgid "Media"
+msgstr "Medien"
+
+msgid "Members"
+msgstr "Mitglieder"
+
+msgid "Members Directory"
+msgstr "Mitgliederverzeichnis"
+
+msgid "Members page"
+msgstr "Mitglieder Seite"
+
+msgid "Membership Administrator"
+msgstr "Mitgliedschaftsadministrator"
+
+msgid "Membership Guest"
+msgstr "Mitgliedschaft Gast"
+
+msgid "Membership Levels"
+msgstr "Mitgliedslevel"
+
+msgid "Membership Purchase"
+msgstr "Mitgliedschaft kaufen"
+
+msgid "Membership Role"
+msgstr "Mitgliedschaftsrolle"
+
+msgid "Membership Status"
+msgstr "Mitgliedsstatus"
+
+msgid "Membership User"
+msgstr "Mitgliedschaftsbenutzer"
+
+msgid "Membership by Supsystic Popular Activities"
+msgstr "Mitgliedschaft bei Supsystic Popular Aktivitaet"
+
+msgid "Membership by Supsystic Popular Groups"
+msgstr "Mitgliedschaft von Supsistic  popul‰re Gruppen"
+
+msgid "Membership by Supsystic Suggested Groups"
+msgstr "Membership by Supsystic Suggested Groups"
+
+msgid "Membership profile"
+msgstr "Mitgliedsprofil"
+
+msgid "Menu"
+msgstr "Menue"
+
+msgid "Message"
+msgstr "Nachricht"
+
+msgid "Message Recieve Notification"
+msgstr "Nachricht erhalten Benachrichtigung"
+
+msgid "Message Recieve Notification Body"
+msgstr "Nachrichtenempfangsbox"
+
+msgid "Message Recieve Notification Subject"
+msgstr "Nachrichtenempfangsbenachrichtigung Betreff"
+
+msgid "Message attachment save error!"
+msgstr "Fehler beim Nachrichtenanhang speichern!"
+
+msgid "Messages"
+msgstr "Nachrichten"
+
+msgid "Messages Refresh Period"
+msgstr "Aktualisierungszeitraum f¸r Nachrichten"
+
+msgid "Minute(s)"
+msgstr "Minuten"
+
+msgid "Month"
+msgstr "Monat"
+
+msgid "Month(s)"
+msgstr "Monat(e)"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Need renew text"
+msgstr "Muessen Text erneuern"
+
+msgid "Network Uninstall"
+msgstr "Netzwerk deinstallieren"
+
+msgid "New %s on group %s."
+msgstr "Neue %s in Gruppe %s."
+
+msgid "New Password"
+msgstr "Neues Passwort"
+
+msgid "New Password Confirmation"
+msgstr "Neues Passwort bestaetigen"
+
+msgid "New Password and New Password Confirmation fields is not match."
+msgstr "Die Felder Neues Passwort und Neues Passwort bestaetigen stimmen nicht ¸berein."
+
+msgid "New User Notification"
+msgstr "Benachrichtigung f¸r neue Benutzer"
+
+msgid "New User Notification Body"
+msgstr "Neuer Benutzerbenachrichtigungskˆrper"
+
+msgid "New User Notification Subject"
+msgstr "Neuer Benutzer Benachrichtigungs-Betreff"
+
+msgid "New Users First"
+msgstr "Neue Benutzer zuerst"
+
+msgid "New conversation"
+msgstr "Neue Konversation"
+
+msgid "New friends and followers notification"
+msgstr "Neue Freunde und Follower Benachrichtigung"
+
+msgid "New group %s is created by %s."
+msgstr "Die neue Gruppe %s wurde von %s erstellt."
+
+msgid "New password"
+msgstr "Neues Passwort"
+
+msgid "New password and password confirmation not match."
+msgstr "Neues Passwort und Passwortbest‰tigung stimmen nicht ¸berein."
+
+msgid "New password can't be empty."
+msgstr "Neues Passwort darf nicht leer sein."
+
+msgid "New password confirmation"
+msgstr "Neues Passwort bestaetigen"
+
+msgid "New password confirmation can't be empty."
+msgstr "Die neue Passwortbest‰tigung darf nicht leer sein."
+
+msgid "New password is required"
+msgstr "Ein neues Passwort ist erforderlich"
+
+msgid "New tag"
+msgstr "Neuer Tag"
+
+msgid "Next"
+msgstr "Naechste"
+
+msgid "Nickname "
+msgstr "Nickname"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "No API key entered in admin area - contact site owner to resolve this issue."
+msgstr "Kein API-Schluessel im Admin-Bereich eingegeben - Wenden Sie sich an den Websitebesitzer, um das Problem zu beheben."
+
+msgid "No blocked users to show."
+msgstr "Keine blockierten Benutzer zum Anzeigen."
+
+msgid "No comments to show."
+msgstr "Keine Kommentare gefunden."
+
+msgid "No data found"
+msgstr "Keine Daten gefunden"
+
+msgid "No favorites to show."
+msgstr "Keine Favoriten zum anzeigen."
+
+msgid "No file is sent"
+msgstr "Es wird keine Datei gesendet"
+
+msgid "No followers to show."
+msgstr "Keine Follower zum Anzeigen."
+
+msgid "No following to show."
+msgstr "Keine folgenden zu zeigen."
+
+msgid "No friend requests to show."
+msgstr "Keine Freundschaftsanfragen zum zeigen."
+
+msgid "No friends to show."
+msgstr "Keine Freunde zum Zeigen."
+
+msgid "No groups to show."
+msgstr "Keine Gruppen zu zeigen."
+
+msgid "No invites to show."
+msgstr "Keine Einladung zum Zeigen."
+
+msgid "No lists to add selected in admin area - contact site owner to resolve this issue."
+msgstr "Keine Listen zum Hinzuf¸gen im Administratorbereich ausgewaehlt - Wenden Sie sich an den Websitebesitzer, um das Problem zu beheben."
+
+msgid "No posts to show."
+msgstr "Keine Beitraege zu zeigen."
+
+msgid "No role restriction"
+msgstr "Keine Rollenbeschraenkung"
+
+msgid "No subscriptions to show."
+msgstr "Keine Abonnements zum Anzeigen."
+
+msgid "No supported plugins found. Currently we support:"
+msgstr "Keine unterstuetzten Plugins gefunden. Zur Zeit unterstuetzen wir:"
+
+msgid "No topics to show."
+msgstr "Keine Themen zum Anzeigen"
+
+msgid "No users is found."
+msgstr "Es wurden keine Benutzer gefunden."
+
+msgid "None"
+msgstr "Keiner"
+
+msgid "Nope, maybe later"
+msgstr "Nein, vielleicht spaeter"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Not Activated"
+msgstr "Nicht aktiviert"
+
+msgid "Not logged-in"
+msgstr "Nicht eingeloggt"
+
+msgid "Not ordered"
+msgstr "Nicht bestellt"
+
+msgid "Nothing is found"
+msgstr "Nichts ist gefunden"
+
+msgid "Nothing is found."
+msgstr "Nichts ist gefunden."
+
+msgid "Nothing was found"
+msgstr "Nichts wurde gefunden"
+
+msgid "Notifications"
+msgstr "Benachrichtigungen"
+
+msgid "Notifications "
+msgstr "Benachrichtigungen."
+
+msgid "Notifications settings changes could not be saved."
+msgstr "Aenderungen der Benachrichtigungseinstellungen konnten nicht gespeichert werden."
+
+msgid "Notifications settings changes has been saved."
+msgstr "Aenderungen der Benachrichtigungseinstellungen wurden gespeichert."
+
+msgid "Now your account is active."
+msgstr "Jetzt ist Ihr Konto aktiv."
+
+msgid "Number of activities to show:"
+msgstr "Anzahl der anzuzeigenden Aktivitaeten:"
+
+msgid "Number of columns to show:"
+msgstr "Anzahl der anzuzeigenden Spalten:"
+
+msgid "Number of groups to show:"
+msgstr "Anzahl der anzuzeigenden Gruppen:"
+
+msgid "Number of profiles per page"
+msgstr "Anzahl der Profile pro Seite"
+
+msgid "Number of profiles per page (for Mobiles & Tablets)"
+msgstr "Anzahl der Profile pro Seite (f¸r Handys & Tablets)"
+
+msgid "Numeric"
+msgstr "Numerisch"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "Ok, you deserve it"
+msgstr "Ok, du verdienst es"
+
+msgid "Old Users First"
+msgstr "Alte Benutzer zuerst"
+
+msgid "On fields with type (Scroll List, Dropdown List, Radio Button, Checkbox) you can only use values from the available options so passed data to that field must match otherwise it will be ignored."
+msgstr "Bei Feldern mit Typ (Scroll-Liste, Dropdown-Liste, Optionsfeld, Kontrollkaestchen) koennen Sie nur Werte aus den verf¸gbaren Optionen verwenden, damit die an dieses Feld uebergebenen Daten ¸bereinstimmen muessen. Andernfalls werden sie ignoriert."
+
+msgid "Once you delete your copy of this conversation, it cannot be undone."
+msgstr "Sobald Sie Ihre Kopie dieser Konversation loeschen, kann sie nicht mehr rueckgaengig gemacht werden."
+
+msgid "Once you delete your copy of this messages, it cannot be undone."
+msgstr "Sobald Sie Ihre Kopie dieser Nachrichten loeschen, kann sie nicht mehr rueckgaengig gemacht werden."
+
+msgid "Once your site visitors begin to view or purchase your Membership Levels - statistics will be displayed here."
+msgstr "Sobald Ihre Website-Besucher Ihre Mitgliedsstufen ansehen oder kaufen, werden hier Statistiken angezeigt."
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Only Me"
+msgstr "Nur Ich"
+
+msgid "Only group administrators can send invitations"
+msgstr "Nur Gruppenadministratoren koennen Einladungen senden"
+
+msgid "Open"
+msgstr "Offen"
+
+msgid "Open group"
+msgstr "Gruppe ansehen"
+
+msgid "Opened Content - no Level required"
+msgstr "Geoeffneter Inhalt - kein Level erforderlich"
+
+msgid "Option Name"
+msgstr "Option Name"
+
+msgid "Order"
+msgstr "Bestellung"
+
+msgid "Order Admin Email"
+msgstr "Bestell-Admin-E-Mail"
+
+msgid "Order Admin Email content"
+msgstr "Bestell-Admin E-Mail-Inhalt"
+
+msgid "Order Created"
+msgstr "Auftrag erstellt"
+
+msgid "Ordered"
+msgstr "Bestellt"
+
+msgid "Ordered Levels"
+msgstr "Bestellte Ebenen"
+
+msgid "Orders"
+msgstr "Auftr‰ge"
+
+msgid "Other"
+msgstr "Andere"
+
+msgid "Pages"
+msgstr "Seiten"
+
+msgid "Parent comment is not exists"
+msgstr "Elternkommentar ist nicht vorhanden"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Password Changed Email"
+msgstr "Passwort Geaenderte E-Mail"
+
+msgid "Password Changed Email Body"
+msgstr "Passwort geaendert Email Koerper"
+
+msgid "Password Changed Email Subject"
+msgstr "Passwort E-Mail-Betreff geaendert"
+
+msgid "Password Confirmation"
+msgstr "Passwort Bestaetigung"
+
+msgid "Password Reset Email"
+msgstr "Passwort Zuruecksetzen der E-Mail"
+
+msgid "Password Reset Email Body"
+msgstr "Passwort zuruecksetzen E-Mail-Nachrichtentext"
+
+msgid "Password Reset Email Subject"
+msgstr "Passwort zuruecksetzen E-Mail-Betreff"
+
+msgid "Password and password confirmation must match"
+msgstr "Passwort und Passwortbestaetigung muessen uebereinstimmen"
+
+msgid "Password and password confirmation not match."
+msgstr "Passwort und Passwortbestaetigung stimmen nicht ueberein."
+
+msgid "Password change"
+msgstr "Passwortaenderung"
+
+msgid "Password confirmation is required"
+msgstr "Passwort Bestaetigung ist erforderlich"
+
+msgid "Password is required"
+msgstr "Passwort wird benoetigt"
+
+msgid "Password is required and can't be empty."
+msgstr "Passwort ist erforderlich und darf nicht leer sein."
+
+msgid "Password is updated successfully"
+msgstr "Das Passwort wurde erfolgreich aktualisiert"
+
+msgid "Pay by Stripe"
+msgstr "Zahlen mit Stripe"
+
+msgid "PayPal PRO"
+msgstr "PayPal PRO"
+
+msgid "PayPal PRO payments."
+msgstr "PayPal PRO Zahlungen."
+
+msgid "PayPal Standard"
+msgstr "PayPal Standard"
+
+msgid "PayPal Standard payments."
+msgstr "PayPal Standard Zahlungen."
+
+msgid "Payment Action"
+msgstr "Zahlungsaktion"
+
+msgid "Payment Info"
+msgstr "Zahlungsinformationen"
+
+msgid "Payment Method"
+msgstr "Bezahlverfahren"
+
+msgid "Payment fail checkout text"
+msgstr "Zahlungspruefung fehlgeschlagen"
+
+msgid "Payments"
+msgstr "Zahlungen"
+
+msgid "Pending Review Email"
+msgstr "Anstehende Ueberpruefungs-E-Mail"
+
+msgid "Pending Review Email Body"
+msgstr "Ausstehende Ueberpruefung E-Mail-Nachricht"
+
+msgid "Pending Review Email Subject"
+msgstr "Ausstehende Ueberpruefung E-Mail-Betreff"
+
+msgid "Pending review"
+msgstr "Ausstehende Bewertung"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Phone is required"
+msgstr "Telefon ist erforderlich"
+
+msgid "Photos"
+msgstr "Fotos"
+
+msgid "Pick up your Membership users to different Subscription lists right after registration."
+msgstr "Nehmen Sie Ihre Mitgliedschaftsbenutzer gleich nach der Registrierung in verschiedene Abonnementlisten auf."
+
+msgid "Places"
+msgstr "Pl‰tze"
+
+msgid "Please <a href=\"%s\">sign up</a> or <a href=\"%s\">sign in</a> to join or leave groups."
+msgstr "Bitte <a href=\"%s\"> anmelden </a> oder <a href=\"%s\"> anmelden </a>, um Gruppen beizutreten oder sie zu verlassen."
+
+msgid "Please <a href=\"%s\">sign up</a> or <a href=\"%s\">sign in</a> to like or write comments on this post."
+msgstr "Bitte <a href=\"%s\"> anmelden </a> oder <a href=\"%s\"> anmelden </a>, um Kommentare zu diesem Beitrag zu erhalten oder zu schreiben."
+
+msgid "Please activate your account"
+msgstr "Bitte aktiviere deinen Account"
+
+msgid "Please enter %s"
+msgstr "Bitte geben Sie %s ein"
+
+msgid "Please enter Group Category Name!"
+msgstr "Bitte geben Sie den Namen der Gruppenkategorie ein!"
+
+msgid "Please fill up the captcha."
+msgstr "Bitte fuellen Sie das Captcha aus."
+
+msgid "Please select an image to remove."
+msgstr "Bitte waehlen Sie ein Bild aus, das Sie entfernen moechten."
+
+msgid "Please select at least one option"
+msgstr "Bitte waehlen Sie mindestens eine Option aus"
+
+msgid "Points count"
+msgstr "Punkte zaehlen"
+
+msgid "Popular"
+msgstr "Populaer"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Post"
+msgstr "Posten"
+
+msgid "Post by service action setting could not be saved."
+msgstr "Die Einstellung \"Nach Dienstaktion\" konnte nicht gespeichert werden."
+
+msgid "Post by service action setting has been saved."
+msgstr "Die Einstellung \"Nach Dienstaktion\" wurde gespeichert."
+
+msgid "Post can't be empty"
+msgstr "Beitrag darf nicht leer sein"
+
+msgid "Postcode / ZIP"
+msgstr "Postleitzahl / ZIP"
+
+msgid "Postcode / ZIP is required"
+msgstr "Postleitzahl / PLZ ist erforderlich"
+
+msgid "Posted from %s activity."
+msgstr "Gepostet von %s Aktivitaet."
+
+msgid "Posts"
+msgstr "Artikel"
+
+msgid "Powerful stuff of Membership Ecommerce addon will help you to start and manage your own paid Membership site."
+msgstr "Leistungsstarke Elemente der Mitgliedschaft E-Commerce-Addon wird Ihnen helfen, Ihre eigene kostenpflichtige Mitgliedschaft Website zu starten und zu verwalten."
+
+msgid "Premium support expires in"
+msgstr "Premium Support laeuft ab in"
+
+msgid "Prev"
+msgstr "Vorherige"
+
+msgid "Previous"
+msgstr "Bisherige"
+
+msgid "Price"
+msgstr "Preis"
+
+msgid "Price for Membership Level"
+msgstr "Preis f¸r Mitgliedschaftsstufe"
+
+msgid "Price for recurring payments"
+msgstr "Preis f¸r wiederkehrende Zahlungen"
+
+msgid "Primary Button Color"
+msgstr "Primaertastenfarbe"
+
+msgid "Primary Button Hover Color"
+msgstr "Primaere Schaltflaeche Hover Farbe"
+
+msgid "Primary Color"
+msgstr "Primaere Farbe"
+
+msgid "Privacy"
+msgstr "Privatsphaere"
+
+msgid "Privacy settings was not updated."
+msgstr "Datenschutzeinstellungen wurden nicht aktualisiert."
+
+msgid "Privacy settings was updated."
+msgstr "Datenschutzeinstellungen wurden aktualisiert."
+
+msgid "Private"
+msgstr "Privat"
+
+msgid "Private group"
+msgstr "Private Gruppe"
+
+msgid "Products"
+msgstr "Produkte"
+
+msgid "Profile"
+msgstr "Profile"
+
+msgid "Profile Avatar Size"
+msgstr "Profil Avatar Groesse"
+
+msgid "Profile Container Max Width"
+msgstr "Maximale Breite des Profil-Behaelters"
+
+msgid "Profile Cover Size"
+msgstr "Profil-Cover-Groesse"
+
+msgid "Profile Fields"
+msgstr "Profilfelder"
+
+msgid "Profile Fields are made for their creation and configuration of asking on registration page and demonstrating at About section in users profiles after loginning to the site."
+msgstr "Profil Felder werden f¸r die Erstellung und Konfiguration von Fragen auf der Registrierungsseite erstellt und im About-Abschnitt in Benutzerprofilen nach dem Anmelden auf der Website demonstriert."
+
+msgid "Profile Header Background Color"
+msgstr "Profil Header Hintergrundfarbe"
+
+msgid "Profile Image Style"
+msgstr "Profil Bildstil"
+
+msgid "Profile Permalink Base"
+msgstr "Profil Permalink Basis"
+
+msgid "Profile Settings"
+msgstr "Profileinstellungen"
+
+msgid "Profile is not exists."
+msgstr "Profil ist nicht vorhanden."
+
+msgid "Profile picture"
+msgstr "Profilbild"
+
+msgid "Protect all Pages"
+msgstr "Schuetze alle Seiten"
+
+msgid "Publish"
+msgstr "Veroeffentlichen"
+
+msgid "Publish to Membership Activity"
+msgstr "In Aktivitaeten f¸r Mitglieder veroeffentlichen"
+
+msgid "Publish to my activity"
+msgstr "Veroeffentlichen Sie f¸r meine Aktivitaet"
+
+msgid "Purchase"
+msgstr "Kauf"
+
+msgid "Purchase button name"
+msgstr "Name der Kauftaste"
+
+msgid "Put symbol at left side?"
+msgstr "Symbol auf der linken Seite platzieren?"
+
+msgid "Radio Button"
+msgstr "Radio Button"
+
+msgid "Random"
+msgstr "Random"
+
+msgid "ReCaptcha is not valid."
+msgstr "ReCaptcha ist nicht gueltig."
+
+msgid "Read"
+msgstr "Lesen"
+
+msgid "Read groups"
+msgstr "Lesen Sie Gruppen"
+
+msgid "Read more"
+msgstr "Weiterlesen"
+
+msgid "Read this post"
+msgstr "Den Beitrag lesen"
+
+msgid "Reading comments is restricted"
+msgstr "Kommentare lesen ist eingeschraenkt"
+
+msgid "Recent Post"
+msgstr "Letzter Beitrag"
+
+msgid "Record removed..."
+msgstr "Aufnahme entfernt..."
+
+msgid "Record saved..."
+msgstr "Rekord gespeichert..."
+
+msgid "Record updated..."
+msgstr "Rekord aktualisiert..."
+
+msgid "Recurring Subscription"
+msgstr "Wiederkehrendes Abonnement"
+
+msgid "Redirect after account is deleted to"
+msgstr "Umleitung nach dem Loeschen des Kontos in"
+
+msgid "Redirect after login to"
+msgstr "Redirect nach dem Anmelden an"
+
+msgid "Redirect after logout to"
+msgstr "Umleiten nach dem Abmelden nach"
+
+msgid "Redirect after registration to"
+msgstr "Redirect nach Registrierung nach"
+
+msgid "Redirect from backend login screen to membership login page"
+msgstr "Umleitung vom Back-End-Anmeldebildschirm zur Mitglied-Login-Seite"
+
+msgid "Register"
+msgstr "Registrieren"
+
+msgid "Register with"
+msgstr "Registrieren mit"
+
+msgid "Registered"
+msgstr "Eingetragen"
+
+msgid "Registration"
+msgstr "Anmeldung"
+
+msgid "Registration Confirmation"
+msgstr "Anmeldebest‰tigung"
+
+msgid "Registration Primary Button Text"
+msgstr "Registrierung Primaer Schaltflaeche Text"
+
+msgid "Registration and Login"
+msgstr "Registrierung und Login"
+
+msgid "Registration button name"
+msgstr "Name der Registrierungsschaltflaeche"
+
+msgid "Rejected"
+msgstr "Abgelehnt"
+
+msgid "Remember me"
+msgstr "Erinnere dich an mich"
+
+msgid "Remove"
+msgstr "Loeschen"
+
+msgid "Remove from group"
+msgstr "Aus der Gruppe entfernen"
+
+msgid "Remove login and registration links from menu when user is logged in"
+msgstr "Entfernen Sie Login- und Registrierungslinks aus dem Menue, wenn der Benutzer angemeldet ist"
+
+msgid "Remove selected images"
+msgstr "Entferne ausgewaehlte Bilder"
+
+msgid "Replace bbPress profile link with link to Membership profile"
+msgstr "Ersetzen Sie den bbPress-Profillink mit dem Link zum Mitgliedsprofil"
+
+msgid "Replies"
+msgstr "Antworten"
+
+msgid "Replies Created"
+msgstr "Antworten erstellt"
+
+msgid "Reply"
+msgstr "Antworten"
+
+msgid "Report"
+msgstr "Report"
+
+msgid "Report Comment"
+msgstr "Bericht Kommentar"
+
+msgid "Report Date"
+msgstr "Berichtsdatum"
+
+msgid "Report Status"
+msgstr "Berichtsstatus"
+
+msgid "Report comment"
+msgstr "Kommentar melden"
+
+msgid "Report date"
+msgstr "Berichtdatum"
+
+msgid "Report details"
+msgstr "Berichtdetails"
+
+msgid "Report post"
+msgstr "Beitrag melden"
+
+msgid "Report type"
+msgstr "Berichtstyp"
+
+msgid "Report was not sent."
+msgstr "Der Bericht wurde nicht gesendet."
+
+msgid "Report was not sent. Report content not found."
+msgstr "Der Bericht wurde nicht gesendet. Der Inhalt des Berichts wurde nicht gefunden."
+
+msgid "Reported"
+msgstr "Berichtet"
+
+msgid "Reported Activity"
+msgstr "Gemeldete Aktivitaet"
+
+msgid "Reported Activity Author"
+msgstr "Berichtete Aktivitaet Autor"
+
+msgid "Reporter"
+msgstr "Reporter"
+
+msgid "Reports"
+msgstr "Reporte"
+
+msgid "Requested activity is not found."
+msgstr "Angeforderte Aktivitaet wurde nicht gefunden."
+
+msgid "Required"
+msgstr "Erforderlich"
+
+msgid "Required Asterisk Color"
+msgstr "Erforderliche Asterisk-Farbe"
+
+msgid "Reset Zoom"
+msgstr "Zoom zuruecksetzen"
+
+msgid "Reset key is not provided."
+msgstr "Reset-Taste ist nicht verfuegbar."
+
+msgid "Reset password"
+msgstr "Passwort zuruecksetzen"
+
+msgid "Reset to Default"
+msgstr "Zur¸cksetzen"
+
+msgid "Reset your password"
+msgstr "Passwrot zuruecksetzen"
+
+msgid "Results Text"
+msgstr "Ergebnistext"
+
+msgid "Review for"
+msgstr "Bewertung f¸r"
+
+msgid "Role"
+msgstr "Rolle"
+
+msgid "Role Name"
+msgstr "Rollen Name"
+
+msgid "Role name"
+msgstr "Rollen name"
+
+msgid "Roles"
+msgstr "Rollen"
+
+msgid "Roles tab offers you to manage with membership roles. By default there are three roles ‚Äì Membership Administrator, Membership User and Membership Guest."
+msgstr "Die Registerkarte \"Rollen\" bietet Ihnen die Verwaltung von Mitgliedschaftsrollen. Standardmaeﬂig gibt es drei Rollen ‚  Mitgliedschaftsadministrator, Mitgliedschaftsbenutzer und Mitgliedschaftsgast."
+
+msgid "Roles who can have forum tab"
+msgstr "Rollen, die Forum-Tab haben koennen"
+
+msgid "Rounded Corners"
+msgstr "Abgerundete Ecken"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Save Address"
+msgstr "Adresse speichern"
+
+msgid "Save Fields"
+msgstr "Felder speichern"
+
+msgid "Save Marker"
+msgstr "Marker speichern"
+
+msgid "Save Pages"
+msgstr "Seiten speichern"
+
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+msgid "Scroll List"
+msgstr "Liste rollen"
+
+msgid "Search"
+msgstr "Suchen"
+
+msgid "Search..."
+msgstr "Suchen..."
+
+msgid "Secondary Button Color"
+msgstr "Sekundaere Tastenfarbe"
+
+msgid "Secondary Button Hover Color"
+msgstr "Sekundaere Schaltflaeche Hover-Farbe"
+
+msgid "Secondary Color"
+msgstr "Sekundaere Farbe"
+
+msgid "Secret word to validate responce"
+msgstr "Geheimes Wort, um die Antwort zu validieren"
+
+msgid "Section"
+msgstr "Sektion"
+
+msgid "Section Name"
+msgstr "Sektionsname"
+
+msgid "Security"
+msgstr "Sicherheit"
+
+msgid "Security Settings"
+msgstr "Sicherheitseinstellungen"
+
+msgid "See dashboard bar"
+msgstr "Siehe Dashboard-Leiste"
+
+msgid "Select"
+msgstr "Waehlen"
+
+msgid "Select a role that will be assigned to user after his registration."
+msgstr "Waehlen Sie eine Rolle aus, die dem Benutzer nach seiner Registrierung zugewiesen wird."
+
+msgid "Select badge"
+msgstr "Waehlen Sie das Abzeichen"
+
+msgid "Select contact form that will be displayed on Contact Us page."
+msgstr "Waehlen Sie das Kontaktformular aus, das auf der Kontaktseite angezeigt wird."
+
+msgid "Select lists for subscribe. They are taken from your Constant Contact account."
+msgstr "Waehlen Sie Listen zum Abonnieren aus. Sie stammen von Ihrem Constant Contact-Konto."
+
+msgid "Select lists for subscribe. They are taken from your MailChimp account - so make sure that you entered correct API key before."
+msgstr "Waehlen Sie Listen zum Abonnieren aus. Sie stammen von Ihrem MailChimp-Konto - stellen Sie daher sicher, dass Sie den richtigen API-Schlusssel eingegeben haben."
+
+msgid "Select membership roles that will have access to this page."
+msgstr "Waehlen Sie Mitgliedschaftsrollen aus, die Zugriff auf diese Seite haben."
+
+msgid "Select messages to delete"
+msgstr "Waehlen Sie Nachrichten zum Loeschen aus"
+
+msgid "Select some Lists before"
+msgstr "Waehlen Sie einige Listen vor"
+
+msgid "Select the sorting order to display users on \"Members\" tab."
+msgstr "Waehlen Sie die Sortierreihenfolge, um Benutzer auf der Registerkarte \"Mitglieder\" anzuzeigen."
+
+msgid "Select the style of profiles and groups images."
+msgstr "Waehlen Sie den Stil der Profile und Gruppen Bilder."
+
+msgid "Select the type of confirmation that should be performed after user registration. You can choose \"Auto\" and there will be no confirmation."
+msgstr "Waehlen Sie die Art der Bestaetigung aus, die nach der Benutzerregistrierung durchgefuehrt werden soll. Sie koennen \"Auto\" waehlen und es wird keine Bestaetigung geben."
+
+msgid "Select user"
+msgstr "Nutzer waehlen"
+
+msgid "Select value"
+msgstr "Waehle Wert"
+
+msgid "Select what data to use in the link of user's profile. E.g. \"http://supsystic/profile/john_snow/\" or \"http://supsystic/profile/1/\"."
+msgstr "Waehlen Sie aus, welche Daten im Link des Benutzerprofils verwendet werden sollen. Z.B. \"http://supsystic/profile/john_snow/\" oder \"http://supsystic/profile/1/\"."
+
+msgid "Select which kind of user's name will be displayed."
+msgstr "Waehlen Sie aus, welcher Name des Benutzers angezeigt werden soll."
+
+msgid "Select who can see information on your website."
+msgstr "Waehlen Sie aus, wer Informationen auf Ihrer Website sehen darf."
+
+msgid "Send"
+msgstr "Senden"
+
+msgid "Send MailChimp Welcome Email"
+msgstr "Senden Sie MailChimp Willkommen Email"
+
+msgid "Send Test"
+msgstr "Testsendung"
+
+msgid "Send Test Email"
+msgstr "Testmail senden"
+
+msgid "Send a request"
+msgstr "Eine Anfrage senden"
+
+msgid "Send and receive messages"
+msgstr "Senden und empfangen Sie Nachrichten"
+
+msgid "Send friend request"
+msgstr "Freundschaftsanfrage senden"
+
+msgid "Send me some info, pls"
+msgstr "Schick mir ein paar Infos, bitte"
+
+msgid "Send message"
+msgstr "Nachricht senden"
+
+msgid "Send message to"
+msgstr "Nachricht senden an"
+
+msgid "Send message to: "
+msgstr "Nachricht senden an: "
+
+msgid "Send private message"
+msgstr "Private Nachricht senden"
+
+msgid "Sending message to this user is restricted by his privacy settings"
+msgstr "Das Senden von Nachrichten an diesen Benutzer ist durch seine Datenschutzeinstellungen eingeschraenkt"
+
+msgid "Server error!"
+msgstr "Serverfehler!"
+
+msgid "Set the background color for labels."
+msgstr "Legen Sie die Hintergrundfarbe f¸r Beschriftungen fest."
+
+msgid "Set the background color for profile header."
+msgstr "Legen Sie die Hintergrundfarbe f¸r den Profilkopf fest."
+
+msgid "Set the background color when the cursor is in this field."
+msgstr "Stellen Sie die Hintergrundfarbe ein, wenn sich der Cursor in diesem Feld befindet."
+
+msgid "Set the color for borders of labels."
+msgstr "Legen Sie die Farbe f¸r Raender von Beschriftungen fest."
+
+msgid "Set the color for borders when the cursor is in this field."
+msgstr "Legen Sie die Farbe f¸r Rahmen fest, wenn sich der Cursor in diesem Feld befindet."
+
+msgid "Set the color for placeholder."
+msgstr "Legen Sie die Farbe f¸r den Platzhalter fest."
+
+msgid "Set the color for primary buttons when they will be covered by mouse."
+msgstr "Stellen Sie die Farbe f¸r Primaertasten ein, wenn diese mit der Maus abgedeckt werden."
+
+msgid "Set the color for primary buttons."
+msgstr "Legen Sie die Farbe f¸r prim‰re Schaltflaechen fest."
+
+msgid "Set the color for secondary buttons when they will be covered by mouse."
+msgstr "Stellen Sie die Farbe f¸r die sekundaeren Tasten ein, wenn sie mit der Maus abgedeckt werden."
+
+msgid "Set the color for secondary buttons."
+msgstr "Legen Sie die Farbe f¸r die sekundaeren Schaltflaechen fest."
+
+msgid "Set the color for text in labels."
+msgstr "Legen Sie die Farbe f¸r Text in Beschriftungen fest."
+
+msgid "Set the color for text in primary buttons."
+msgstr "Legen Sie die Farbe f¸r Text in Primaerschaltflaechen fest."
+
+msgid "Set the color for text in secondary buttons."
+msgstr "Legen Sie die Farbe f¸r Text in sekundaeren Schaltflaechen fest."
+
+msgid "Set the color for text."
+msgstr "Legen Sie die Farbe fuer Text fest."
+
+msgid "Set the quality of images in %. The highest value is 100."
+msgstr "Stellen Sie die Qualitaet der Bilder in% ein. Der hoechste Wert ist 100."
+
+msgid "Set the text for \"Log in\" button."
+msgstr "Legen Sie den Text f¸r die Schaltflaeche \"Anmelden\" fest."
+
+msgid "Set the text for \"Register\" button."
+msgstr "Stellen Sie den Text f¸r die Schaltflaeche \"Registrieren\" ein."
+
+msgid "Set the text for secondary button."
+msgstr "Legen Sie den Text f¸r die sekundaere Schaltflaeche fest."
+
+msgid "Set the width for profile container. The maximum is 100%."
+msgstr "Legen Sie die Breite f¸r den Profilcontainer fest. Das Maximum ist 100%."
+
+msgid "Set to default"
+msgstr "Auf Standard setzen"
+
+msgid "Set url to which user will be redirected after clicking on secondary button in Login form."
+msgstr "Legen Sie die URL fest, auf die der Benutzer nach dem Klicken auf die sekundaere Schaltflaeche im Anmeldeformular umgeleitet wird."
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Share"
+msgstr "Teilen"
+
+msgid "Share to Friends Activity"
+msgstr "Aktivitaet mit Freunden teilen"
+
+msgid "Shared activity is not exist or user don't have read permission to read activity."
+msgstr "Die freigegebene Aktivitaet ist nicht vorhanden oder der Benutzer hat keine Leseberechtigung zum Lesen der Aktivitaet."
+
+msgid "Shared post by user will be displayed in all user's friends Activity page"
+msgstr "Geteilter Post nach Benutzer wird auf der Aktivitaetsseite aller Benutzer angezeigt"
+
+msgid "Shares"
+msgstr "Geteilt"
+
+msgid "Shipping Address"
+msgstr "Lieferanschrift"
+
+msgid "Shipping Information"
+msgstr "Versandinformationen"
+
+msgid "Show Activity Filter"
+msgstr "Aktivitaetsfilter anzeigen"
+
+msgid "Show Display Name"
+msgstr "Anzeigenamen anzeigen"
+
+msgid "Show Display Name In Profile Header"
+msgstr "Anzeigenamen in Profilkopf anzeigen"
+
+msgid "Show Friends and Followers"
+msgstr "Zeige Freunde und Followers"
+
+msgid "Show Load More Button"
+msgstr "Zeig Mehr laden Button"
+
+msgid "Show Only Members With Cover"
+msgstr "Zeige nur Mitglieder mit Cover"
+
+msgid "Show Only Members With Photo"
+msgstr "Zeige nur Mitglieder mit Bild"
+
+msgid "Show Pages"
+msgstr "Seiten anzeigen"
+
+msgid "Show Remember Me"
+msgstr "Erinnere Mich anzeigen"
+
+msgid "Show an asterisk for required fields"
+msgstr "Ein Sternchen f¸r Pflichtfelder anzeigen"
+
+msgid "Show billing address in user settings"
+msgstr "Rechnungsadresse in den Benutzereinstellungen anzeigen"
+
+msgid "Show bought products in profile"
+msgstr "Gekaufte Produkte im Profil anzeigen"
+
+msgid "Show extra user information below tagline?"
+msgstr "Zusaetzliche Nutzerinformationen unter dem Slogan anzeigen?"
+
+msgid "Show group action buttons?"
+msgstr "Gruppenaktionsschaltflaechen anzeigen?"
+
+msgid "Show my profile in Members Directory."
+msgstr "Zeige mein Profil im Mitgliederverzeichnis."
+
+msgid "Show ordered Membership Levels"
+msgstr "Zeige geordnete Mitgliedsstufen"
+
+msgid "Show orders in members directory"
+msgstr "Zeige Bestellungen im Mitgliederverzeichnis"
+
+msgid "Show orders in profile"
+msgstr "Bestellungen im Profil anzeigen"
+
+msgid "Show product reviews in profile"
+msgstr "Zeige Produktbewertungen im Profil"
+
+msgid "Show purchases in profile"
+msgstr "Kaeufe im Profil anzeigen"
+
+msgid "Show results only after search"
+msgstr "Zeige Ergebnisse erst nach der Suche"
+
+msgid "Show shipping address in user settings"
+msgstr "Lieferadresse in den Benutzereinstellungen anzeigen"
+
+msgid "Show short post view"
+msgstr "Zeige kurze Postansicht"
+
+msgid "Show tabs"
+msgstr "Tabs anzeigen"
+
+msgid "Show tagline below profile name"
+msgstr "Tagline unterhalb des Profilnamens anzeigen"
+
+msgid "Show total spent in members directory"
+msgstr "Gesamte Summe im Mitgliedsverzeichnis anzeigen"
+
+msgid "Show total spent in profile"
+msgstr "Gesamte Summe im Profil ausgeben anzeigen"
+
+msgid "Shows the list of activities, depending on likes."
+msgstr "Zeigt die Liste der Aktivitaeten an, abhaengig von Likes."
+
+msgid "Shows the list of groups, depending on the number of followers."
+msgstr "Zeigt die Liste der Gruppen an, abhaengig von der Anzahl der Follower."
+
+msgid "Shows the list of suggested groups."
+msgstr "Zeigt die Liste der vorgeschlagenen Gruppen an."
+
+msgid "Since:"
+msgstr "Seit:"
+
+msgid "Single Result Text"
+msgstr "Einzelergebnistext"
+
+msgid "Site Accessible to Everyone"
+msgstr "Website f¸r alle zug‰nglich"
+
+msgid "Site Accessible to Logged In Users"
+msgstr "Zugriff auf angemeldete Benutzer"
+
+msgid "Site wide"
+msgstr "Alles"
+
+msgid "Skip & Deactivate"
+msgstr "‹berspringen und deaktivieren"
+
+msgid "Slider Images"
+msgstr "Slider Bilder"
+
+msgid "Slider Name"
+msgstr "Slider Name"
+
+msgid "Smile Button Background Color"
+msgstr "Smile Button-Hintergrundfarbe"
+
+msgid "Smile Button Hover Background Color"
+msgstr "Smile Button Hover Hintergrundfarbe"
+
+msgid "Smile button icon size"
+msgstr "Smile Button Icon Groesse"
+
+msgid "Social"
+msgstr "Social"
+
+msgid "Social Login"
+msgstr "Social Login"
+
+msgid "Social Login (PRO)"
+msgstr "Social Login (PRO)"
+
+msgid "Social Network Integration"
+msgstr "Social Network Integration"
+
+msgid "Social Networks Integration (PRO)"
+msgstr "Social Networks Integration (PRO)"
+
+msgid "Social network integration"
+msgstr "Social network integration"
+
+msgid "Social sign-in"
+msgstr "Social Anmeldung"
+
+msgid "Some of requested users cannot receive or send messages"
+msgstr "Einige der angeforderten Benutzer koennen keine Nachrichten empfangen oder senden"
+
+msgid "Some of your products is extendable, but you don't have original product purchased before."
+msgstr "Einige Ihrer Produkte sind erweiterbar, Sie haben jedoch kein Originalprodukt erworben."
+
+msgid "Something going wrong while trying to send data to MailChimp. Please contact site owner."
+msgstr "Beim Senden von Daten an MailChimp ist ein Fehler aufgetreten. Bitte kontaktieren Sie den Websitebesitzer."
+
+msgid "Something going wrong while trying to send data to mail list service. Please contact site owner."
+msgstr "Beim Versuch, Daten an den Mail-Listen-Dienst zu senden, ist ein Fehler aufgetreten. Bitte kontaktieren Sie den Websitebesitzer."
+
+msgid "Something went wrong"
+msgstr "Etwas ist schief gelaufen"
+
+msgid "Sorry, the original post was deleted by its author."
+msgstr "Entschuldigung, der urspruengliche Beitrag wurde von seinem Autor geloescht."
+
+msgid "Sort Groups by"
+msgstr "Sortieren von Gruppen nach"
+
+msgid "Sorts in Descending order"
+msgstr "Sortiert in absteigender Reihenfolge"
+
+msgid "Specific roles"
+msgstr "Spezifische Rollen"
+
+msgid "Specify a description of Group page. Search engines can pick up this description to show with the results of searches."
+msgstr "Geben Sie eine Beschreibung der Gruppenseite an. Suchmaschinen koennen diese Beschreibung aufrufen, um sie mit den Suchergebnissen anzuzeigen."
+
+msgid "Specify a description of User Profile page. Search engines can pick up this description to show with the results of searches."
+msgstr "Geben Sie eine Beschreibung der Benutzerprofilseite an. Suchmaschinen koennen diese Beschreibung aufrufen, um sie mit den Suchergebnissen anzuzeigen."
+
+msgid "Square"
+msgstr "Platz"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "State"
+msgstr "Staat"
+
+msgid "State / County"
+msgstr "Staat / Landkreis"
+
+msgid "State / County is required"
+msgstr "Staat / Landkreis ist erforderlich"
+
+msgid "Statistics"
+msgstr "Statistiken"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Stripe Publishable Key"
+msgstr "Stripe Publishable Key"
+
+msgid "Stripe Secret Key"
+msgstr "Stripe Secret Key"
+
+msgid "Stripe payments."
+msgstr "Stripe Zahlungen."
+
+msgid "Subscribe"
+msgstr "Abonnieren"
+
+msgid "Subscribe success message"
+msgstr "Erfolgsmeldung abonnieren"
+
+msgid "Subscriptions"
+msgstr "Abonnements"
+
+msgid "Subscriptions (PRO)"
+msgstr "Abonnements (PRO)"
+
+msgid "Subscriptions Lists"
+msgstr "Abonnementlisten"
+
+msgid "Success checkout text"
+msgstr "Erfolgs Checkout Text"
+
+msgid "Support part"
+msgstr "Unterst¸tzungsteil"
+
+msgid "Supsystic Forum"
+msgstr "Supsystic Forum"
+
+msgid "Supsystic Membership Role"
+msgstr "Supsystic Mitgliedschaft Rolle"
+
+msgid "Symbol"
+msgstr "Symbol"
+
+msgid "Tag does not exists at this group"
+msgstr "Tag existiert in dieser Gruppe nicht"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Tags for this group have not been added yet."
+msgstr "Tags f¸r diese Gruppe wurden noch nicht hinzugef¸gt."
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Test Mode"
+msgstr "Test Mode"
+
+msgid "Test Payments"
+msgstr "Test Zahlung"
+
+msgid "Test mail"
+msgstr "Test mail"
+
+msgid "Test user"
+msgstr "Benutzer testen"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Text that users will see when they need to renew this Level."
+msgstr "Text, den Benutzer sehen, wenn sie diese Stufe erneuern muessen."
+
+msgid "Thank you for choosing our Membership plugin"
+msgstr "Danke, dass Sie unser Mitgliedschafts-Plugin gewaehlt haben"
+
+msgid "Thank you for choosing our plugin! We are happy you like Membership plugin by Supsystic and You will get our best work!"
+msgstr "Danke, dass Sie unser Plugin gewaehlt haben! Wir freuen uns, dass Sie Mitgliedschaft Plugin von Supsystic und Sie werden unsere beste Arbeit bekommen!"
+
+msgid "Thank you for registration!"
+msgstr "Vielen Dank f¸r die Registrierung!"
+
+msgid ""
+"Thank you for signing up with {site_name}!\n"
+"To activate your account, please click the link below to confirm your email address: <a href=\"{account_activation_link}\">{account_activation_link}</a>\n"
+"If you have any problems, please contact us at {admin_email}\n"
+"Thanks, {site_name}"
+msgstr ""
+"Vielen Dank f¸r die Anmeldung mit {site_name}!\n"
+"Um Ihr Konto zu aktivieren, klicken Sie bitte auf den folgenden Link, um Ihre E-Mail-Adresse zu best‰tigen: <a href=\"{account_activation_link}\"> {account_activation_link} </a>\n"
+"Wenn Sie Probleme haben, kontaktieren Sie uns bitte unter {admin_email}\n"
+"Danke, {site_name}"
+
+msgid "The color theme. You can select from themes, provided by Google, for your reCaptcha."
+msgstr "Das Farbschema Sie koennen f¸r Ihr reCaptcha aus Themen von Google auswaehlen."
+
+msgid "The message that admin will get if some account needs to be reviewed."
+msgstr "Die Nachricht, die der Administrator erhaelt, wenn ein Konto ¸berpr¸ft werden muss."
+
+msgid "The message that admin will receive after a new user signs up. In case you don't want to get this email just turn this option off."
+msgstr "Die Nachricht, die der Administrator erh‰lt, nachdem sich ein neuer Benutzer angemeldet hat. Falls Sie diese E-Mail nicht erhalten moechten, schalten Sie diese Option aus."
+
+msgid "The message was sent"
+msgstr "Die Nachricht wurde gesendet"
+
+msgid "The name of site that will be indicated in emails."
+msgstr "Der Name der Website, die in E-Mails angezeigt wird."
+
+msgid "The requested social network integration is not enabled"
+msgstr "Die angeforderte soziale Netzwerkintegration ist nicht aktiviert"
+
+msgid "The size of the CAPTCHA widget."
+msgstr "Die Grˆﬂe des CAPTCHA-Widgets."
+
+msgid "The total number of recurring billing cycles for this level, including the trial period (if applicable) but not including the initial payment. Set to zero if membership is indefinite."
+msgstr "Die Gesamtzahl der wiederkehrenden Abrechnungszyklen f¸r diese Ebene, einschlieﬂlich der Probezeit (falls zutreffend), jedoch ohne die urspr¸ngliche Zahlung. Auf Null setzen, wenn die Mitgliedschaft unbestimmt ist."
+
+msgid "The type of CAPTCHA to serve."
+msgstr "Die Art von CAPTCHA zu dienen."
+
+msgid "The vendor account number for the 2Checkout gateway"
+msgstr "Die Kreditorkontonummer f¸r das 2Checkout-Gateway"
+
+msgid "There are no Membership Levels on this site for now."
+msgstr "Momentan gibt es auf dieser Seite keine Mitgliedschaftsstufen."
+
+msgid "There is no administrators left in group, you must delete group first."
+msgstr "In der Gruppe sind keine Administratoren mehr vorhanden. Sie m¸ssen zuerst die Gruppe lˆschen."
+
+msgid "There is no data to import."
+msgstr "Es sind keine Daten zum Importieren vorhanden."
+
+msgid "There is no products"
+msgstr "Es gibt keine Produkte"
+
+msgid "There is no purchases"
+msgstr "Es gibt keine Eink‰ufe"
+
+msgid "There is no reviews"
+msgstr "Es gibt keine Bewertungen"
+
+msgid "There is no subscription in subscriptions lists"
+msgstr "Es gibt kein Abonnement in Abonnementlisten"
+
+msgid "There is no user with provided id"
+msgstr "Es gibt keinen Benutzer mit der angegebenen ID"
+
+msgid "There is no users yet."
+msgstr "Es gibt noch keine Benutzer."
+
+msgid "There was some problem while trying to get your lists. Make sure that your API key is correct."
+msgstr "Beim Versuch, Ihre Listen zu erhalten, gab es ein Problem. Stellen Sie sicher, dass Ihr API-Schl¸ssel korrekt ist."
+
+msgid "There were some errors with your data"
+msgstr "Es gab einige Fehler mit Ihren Daten"
+
+msgid "There's no any activity yet"
+msgstr "Es gibt noch keine Aktivit‰t"
+
+msgid "This Level is Expired"
+msgstr "Dieses Level ist abgelaufen"
+
+msgid "This content is closed for you"
+msgstr "Dieser Inhalt ist f¸r dich geschlossen"
+
+msgid "This email will be sent to user after his account has been approved and activated by admin."
+msgstr "Diese E-Mail wird an den Benutzer gesendet, nachdem sein Konto vom Administrator genehmigt und aktiviert wurde."
+
+msgid "This email will be sent to user if admin rejected his account."
+msgstr "Diese E-Mail wird an den Benutzer gesendet, wenn der Administrator sein Konto abgelehnt hat."
+
+msgid "This email will be sent to user if he has requested to change the password."
+msgstr "Diese E-Mail wird an den Benutzer gesendet, wenn er aufgefordert hat, das Passwort zu ‰ndern."
+
+msgid "This email will be sent to user if he needs to wait till admin will approve his account."
+msgstr "Diese E-Mail wird an den Benutzer gesendet, wenn er warten muss, bis der Administrator sein Konto genehmigt."
+
+msgid "This email will be sent to user if his account has been deactivated."
+msgstr "Diese E-Mail wird an den Benutzer gesendet, wenn sein Konto deaktiviert wurde."
+
+msgid "This email will be sent to user if this account has been deleted."
+msgstr "Diese E-Mail wird an den Benutzer gesendet, wenn dieses Konto geloescht wurde."
+
+msgid "This email will be sent to user, so he could confirm his email and activate the account after registration."
+msgstr "Diese E-Mail wird an den Benutzer gesendet, damit er seine E-Mail-Adresse best‰tigen und das Konto nach der Registrierung aktivieren kann."
+
+msgid "This email will be used as Sender."
+msgstr "Diese E-Mail wird als Absender verwendet."
+
+msgid "This is not your Order"
+msgstr "Das ist nicht deine Bestellung"
+
+msgid "This is protected field. You cannot modify its type."
+msgstr "Dies ist ein gesch¸tztes Feld. Sie koennen den Typ nicht ‰ndern."
+
+msgid ""
+"This message will be shown after subscription in the settings of user's profile right after subscriber will be\n"
+"    created and confirmed."
+msgstr ""
+"Diese Nachricht wird nach dem Abonnement in den Einstellungen des Benutzerprofils direkt nach dem Abonnenten angezeigt\n"
+"     erstellt und best‰tigt."
+
+msgid "This module is used for test purpose only. Do not use in in Production."
+msgstr "Dieses Modul wird nur zu Testzwecken verwendet. Verwenden Sie nicht in der Produktion."
+
+msgid "This month"
+msgstr "Diesen Monat"
+
+msgid "This option allows to use html markup language to edit the text in emails."
+msgstr "Diese Option ermˆglicht es, HTML-Markup-Sprache zu verwenden, um den Text in E-Mails zu bearbeiten."
+
+msgid "This option will create subscriber directly after new user registration. If this option is disabled - new subscriber won't be created for your subscription list after registration. In this case user will be able to subscribe only in his Profile Settings."
+msgstr "Diese Option erstellt den Abonnenten direkt nach der Registrierung des neuen Benutzers. Wenn diese Option deaktiviert ist, wird nach der Registrierung kein neuer Abonnent f¸r Ihre Abonnementliste erstellt. In diesem Fall kann der Nutzer nur in seinen Profileinstellungen abonnieren."
+
+msgid "This page is disabled by site administrator."
+msgstr "Diese Seite wurde vom Site-Administrator deaktiviert."
+
+msgid "This post not exist!"
+msgstr "Dieser Beitrag existiert nicht!"
+
+msgid "This tab allows you to see detail user reports on restricted content types of other users and write to the reporter/reported user or block him/her."
+msgstr "Auf dieser Registerkarte koennen Sie detaillierte Benutzerberichte zu eingeschr‰nkten Inhaltstypen anderer Benutzer anzeigen und in den Bericht / Bericht schreiben oder ihn blockieren."
+
+msgid "This user is blocking your messages."
+msgstr "Dieser Benutzer blockiert Ihre Nachrichten."
+
+msgid "This user is restrict access to his about page."
+msgstr "Dieser Benutzer beschr‰nkt den Zugriff auf seine About-Seite."
+
+msgid "This user is restrict access to his activity page."
+msgstr "Dieser Benutzer beschr‰nkt den Zugriff auf seine Aktivit‰tenseite."
+
+msgid "This user is restrict access to his comments page."
+msgstr "Dieser Benutzer beschr‰nkt den Zugriff auf seine Kommentarseite."
+
+msgid "This user is restrict access to his followers page."
+msgstr "Dieser Benutzer beschr‰nkt den Zugriff auf seine Follower-Seite."
+
+msgid "This user is restrict access to his friends page."
+msgstr "Dieser Benutzer beschr‰nkt den Zugriff auf seine Freundeseite."
+
+msgid "This user is restrict access to his groups page."
+msgstr "Dieser Benutzer beschr‰nkt den Zugriff auf seine Gruppen-Seite."
+
+msgid "This user is restrict access to his posts page."
+msgstr "Dieser Benutzer beschr‰nkt den Zugriff auf seine Posts-Seite."
+
+msgid "This user is restrict access to his profile."
+msgstr "Dieser Benutzer beschr‰nkt den Zugriff auf sein Profil."
+
+msgid "This week"
+msgstr "Diese Woche"
+
+msgid "This will be initial amount for the first payment"
+msgstr "Dies ist der erste Betrag f¸r die erste Zahlung"
+
+msgid "This year"
+msgstr "Dieses Jahr"
+
+msgid "Thousands separator"
+msgstr "Tausendertrennzeichen"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Title:"
+msgstr "Title:"
+
+msgid "To"
+msgstr "Zu"
+
+msgid "To be unique develop your own coloristic combination of Membership design."
+msgstr "Um einzigartig zu sein, entwickeln Sie Ihre eigene koloristische Kombination aus Mitgliedschaftsdesign."
+
+msgid "To complete your registration administrator needs to review your account.<br>You will receive email about your account activation after review."
+msgstr "Um Ihre Registrierung abzuschlieﬂen, muss der Administrator Ihr Konto ¸berpr¸fen. <br> Sie erhalten nach der ‹berpr¸fung eine E-Mail zur Aktivierung Ihres Kontos."
+
+msgid "To complete your registration please follow the activation link in confirmation email message that you will receive."
+msgstr "Um Ihre Registrierung abzuschlieﬂen, folgen Sie bitte dem Aktivierungslink in der Best‰tigungs-E-Mail, die Sie erhalten."
+
+msgid "To find your Facebook App ID please login to your Facebook account at <a target=\"_blank\" href=\"https://developers.facebook.com/apps/\">https://developers.facebook.com/apps/</a>. Then on the left main menu click on Dashboard. Copy / Paste your App ID into \"Facebook App ID\" field here. For more detailed instruction - check article <a target=\"_blank\" href=\"http://supsystic.com/integrate-membership-facebook-app/\">here</a>."
+msgstr "https://developers.facebook.com/apps/ </a>. Klicken Sie dann im linken Hauptmen¸ auf Dashboard. Kopiere / f¸ge deine App ID hier in das Feld \"Facebook App ID\" ein. Ausf¸hrlichere Anweisungen finden Sie im Artikel <a target=\"_blank\" href=\"http://supystic.com/integrate-membership-facebook-app/\"> hier </a>."
+
+msgid "To find your Facebook App Secret please login to your Facebook account at https://developers.facebook.com/apps/. Then on the left main menu click on Dashboard. Copy / Paste your App Secret into \"Facebook App Secret\" field here. For more detailed instruction - check article <a target=\"_blank\" href=\"http://supsystic.com/integrate-membership-facebook-app/\">here</a>."
+msgstr "Um Ihre Facebook App Secret zu finden, loggen Sie sich bitte in Ihren Facebook-Account unter https://developers.facebook.com/apps/ ein. Klicken Sie dann im linken Hauptmen¸ auf Dashboard. Kopieren / f¸gen Sie Ihr App-Geheimnis hier in das Feld \"Facebook App Secret\" ein. Ausf¸hrlichere Anweisungen finden Sie im Artikel <a target=\"_blank\" href=\"http://supystic.com/integrate-membership-facebook-app/\"> hier </a>."
+
+msgid "To find your MailChimp API Key login to your Mailchimp account at http://mailchimp.com. On the left main menu click on your Username, then select \"Account\" in the flyout menu. From the account page select \"Extras\", \"API Keys\". Your API Key will be listed in the table labeled \"Your API Keys\". Copy / Paste your API key into \"MailChimp API key\" field here."
+msgstr "Um Ihren MailChimp API Key zu finden, melden Sie sich bei Ihrem Mailchimp Account unter http://mailchimp.com an. Klicken Sie im linken Hauptmen¸ auf Ihren Benutzernamen und w‰hlen Sie im Flyout-Men¸ \"Konto\". W‰hlen Sie auf der Account-Seite \"Extras\", \"API-Schl¸ssel\". Ihr API-Schl¸ssel wird in der Tabelle \"Ihre API-Schl¸ssel\" aufgef¸hrt. Kopieren / f¸gen Sie hier Ihren API-Schl¸ssel in das Feld \"MailChimp-API-Schl¸ssel\" ein."
+
+msgid "To find your Twitter API Key please login to your Twitter account at https://apps.twitter.com/. Open the settings of your App and click on \"Keys and Access Tokens\" tab. Copy / Paste \"Consumer Key (API Key)\" into \"Twitter API Key\" field here. For more detailed instruction - check article <a target=\"_blank\" href=\"http://supsystic.com/integrate-membership-twitter/\">here</a>."
+msgstr "Um Ihren Twitter API Key zu finden, loggen Sie sich bitte unter https://apps.twitter.com/ in Ihren Twitter Account ein. ÷ffnen Sie die Einstellungen Ihrer App und klicken Sie auf die Registerkarte \"Schl¸ssel und Zugriffstoken\". Kopieren Sie hier \"Consumer Key (API Key)\" in das Feld \"Twitter API Key\". Ausf¸hrlichere Anweisungen finden Sie im Artikel <a target=\"_blank\" href=\"http://upsystic.com/integrate-membership-twitter/\"> hier </a>."
+
+msgid "To find your Twitter API Secret please login to your Twitter account at https://apps.twitter.com/. Open the settings of your App and click on \"Keys and Access Tokens\" tab. Copy / Paste \"Consumer Secret (API Secret)\" into \"Twitter API Secret\" field here. For more detailed instruction - check article <a target=\"_blank\" href=\"http://supsystic.com/integrate-membership-twitter/\">here</a>."
+msgstr "Um Ihr Twitter API Secret zu finden, loggen Sie sich bitte unter https://apps.twitter.com/ in Ihren Twitter Account ein. ÷ffnen Sie die Einstellungen Ihrer App und klicken Sie auf die Registerkarte \"Schl¸ssel und Zugriffstoken\". Kopieren / Einf¸gen \"Consumer Secret (API Secret)\" in das Feld \"Twitter API Secret\" hier. Ausf¸hrlichere Anweisungen finden Sie im Artikel <a target=\"_blank\" href=\"http://upsystic.com/integrate-membership-twitter/\"> hier </a>."
+
+msgid "To:"
+msgstr "Zu:"
+
+msgid "Today"
+msgstr "Heute"
+
+msgid "Token response error. You need to reconnect to %s."
+msgstr "Token-Antwortfehler Sie m¸ssen die Verbindung zu %s wiederherstellen."
+
+msgid "Topics Started"
+msgstr "Themen gestartet"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Total Spent"
+msgstr "Gesamtausgaben"
+
+msgid "Total Statistics"
+msgstr "Gesamtstatistik"
+
+msgid "Total Statistics is empty for now."
+msgstr "Gesamtstatistik ist vorerst leer."
+
+msgid "Town / City"
+msgstr "Stadt"
+
+msgid "Town / City is required"
+msgstr "Stadt ist erforderlich"
+
+msgid "Transaction Key"
+msgstr "Transaktionsschl¸ssel"
+
+msgid "Tune needed settings for frontend appearance of Membership Groups."
+msgstr "Tune benˆtigte Einstellungen f¸r das Aussehen von Mitgliedsgruppen im Frontend."
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "Twitter API Key"
+msgstr "Twitter API Key"
+
+msgid "Twitter API Secret"
+msgstr "Twitter API Secret"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Unapprove"
+msgstr "Nicht zustimmen"
+
+msgid "Unblock"
+msgstr "Entsperren"
+
+msgid "Unblock actvity"
+msgstr "Entsperren Aktivit‰t"
+
+msgid "Unblock group"
+msgstr "Gruppe entsperren"
+
+msgid "Unblock user"
+msgstr "Nutzer entblockieren"
+
+msgid "Unfollow"
+msgstr "Nicht mehr folgen"
+
+msgid "Unfriend"
+msgstr "Freundschaft beenden"
+
+msgid "Uninstall"
+msgstr "Deinstallieren"
+
+msgid "Unknown upload error."
+msgstr "Unbekannter Uploadfehler."
+
+msgid "Unpublished"
+msgstr "Unverˆffentlicht"
+
+msgid "Unread"
+msgstr "Ungelesen"
+
+msgid "Unsubscribe"
+msgstr "Abmelden"
+
+msgid "Unsubscribed successfully"
+msgstr "Abgemeldet erfolgreich"
+
+msgid "Unsupported file format"
+msgstr "Nicht unterst¸tztes Dateiformat"
+
+msgid "Unsupported image format"
+msgstr "Nicht unterst¸tztes Bildformat"
+
+msgid "Unsupported image format. You can use jpeg or png image format."
+msgstr "Nicht unterst¸tztes Bildformat Sie koennen JPEG- oder PNG-Bildformat verwenden."
+
+msgid "Unsupported template."
+msgstr "Nicht unterst¸tzte Vorlage."
+
+msgid "Update"
+msgstr "Aktualisieren"
+
+msgid "Upgrade your Membership site and provide beneficial abilities for clients with Membership PRO Addons by Supsystic."
+msgstr "R¸sten Sie Ihre Mitgliedsseite auf und stellen Sie Ihren Kunden mit Add-Ons f¸r Mitgliedschaft PRO von Supsystic n¸tzliche F‰higkeiten zur Verf¸gung."
+
+msgid "Upload Icon"
+msgstr "Symbol hochladen"
+
+msgid "Upload logo"
+msgstr "Logo hochladen"
+
+msgid "Upload photo"
+msgstr "Foto hochladen"
+
+msgid "Uploads"
+msgstr "Uploads"
+
+msgid "Use Default Theme Colors"
+msgstr "Verwenden Sie Standard-Designfarben"
+
+msgid "Use HTML for E-mails"
+msgstr "Verwenden Sie HTML f¸r E-Mails"
+
+msgid "Use Profile Avatar"
+msgstr "Verwenden Sie den Profilavatar"
+
+msgid "Use Profile Cover"
+msgstr "Verwenden Sie Profilabdeckung"
+
+msgid "Use Profile Gravatar"
+msgstr "Verwenden Sie Profil Gravatar"
+
+msgid "Use your own social network app"
+msgstr "Verwenden Sie Ihre eigene App f¸r soziale Netzwerke"
+
+msgid "User Display Name"
+msgstr "Benutzer Anzeigename"
+
+msgid "User Fields"
+msgstr "User Fields"
+
+msgid "User ID"
+msgstr "Benutzeridentifikation"
+
+msgid "User Name"
+msgstr "Nutzername"
+
+msgid "User Profile"
+msgstr "Benutzerprofil"
+
+msgid "User Profile Dynamic Meta Description"
+msgstr "Benutzerprofil Dynamische Meta-Beschreibung"
+
+msgid "User Profile Title"
+msgstr "Titel des Benutzerprofils"
+
+msgid "User Registration"
+msgstr "Benutzer Registration"
+
+msgid "User Report"
+msgstr "Benutzerbericht"
+
+msgid "User Role List"
+msgstr "Benutzerrollenliste"
+
+msgid "User Roles that can use search"
+msgstr "Benutzerrollen, die die Suche verwenden koennen"
+
+msgid "User Roles to Display"
+msgstr "Benutzerrollen zum Anzeigen"
+
+msgid "User activated"
+msgstr "Benutzer aktiviert"
+
+msgid "User already blocked"
+msgstr "Benutzer ist bereits blockiert"
+
+msgid "User already followed"
+msgstr "Benutzer ist bereits gefolgt"
+
+msgid "User already has badges"
+msgstr "Benutzer hat bereits Abzeichen"
+
+msgid "User already in friends"
+msgstr "Benutzer bereits in Freunden"
+
+msgid "User blocked"
+msgstr "Nutzer blockiert"
+
+msgid "User does not have permission to delete this group."
+msgstr "Der Benutzer hat keine Berechtigung, diese Gruppe zu lˆschen."
+
+msgid "User get role"
+msgstr "Benutzer bekommen Rolle"
+
+msgid "User is not allowed to edit this order"
+msgstr "Der Benutzer darf diese Bestellung nicht bearbeiten"
+
+msgid "User is not blocked"
+msgstr "Benutzer ist nicht blockiert"
+
+msgid "User is not follower of this group"
+msgstr "Benutzer ist kein Anh‰nger dieser Gruppe"
+
+msgid "User is not found"
+msgstr "Benutzer wurde nicht gefunden"
+
+msgid "User is not provided."
+msgstr "Benutzer wird nicht zur Verf¸gung gestellt."
+
+msgid "User not found"
+msgstr "Benutzer nicht gefunden"
+
+msgid "User not selected"
+msgstr "Benutzer nicht ausgew‰hlt"
+
+msgid "User registration is disabled. To enable go to WP Settings > General and check box for Membership option."
+msgstr "Benutzerregistrierung ist deaktiviert. Aktivieren Sie WP-Einstellungen> Allgemein und aktivieren Sie das Kontrollk‰stchen f¸r die Option Mitgliedschaft."
+
+msgid "User unblocked"
+msgstr "Benutzer entsperrt"
+
+msgid "User update error"
+msgstr "Benutzeraktualisierungsfehler"
+
+msgid ""
+"User will see this message after subscription in the settings of his profile, when email with confirmation link was\n"
+"    sent."
+msgstr ""
+"Benutzer wird diese Nachricht nach dem Abonnement in den Einstellungen seines Profils sehen, wenn E-Mail mit Best‰tigungslink war\n"
+"     geschickt."
+
+msgid "User with email %s already exists. Skipped."
+msgstr "Benutzer mit der E-Mail-Adresse %s existiert bereits. ‹bersprungen."
+
+msgid "User with id %d is not found"
+msgstr "Benutzer mit der ID% d wurde nicht gefunden"
+
+msgid "User with login %s already exists. Skipped."
+msgstr "Benutzer mit Login %s existiert bereits. ‹bersprungen."
+
+msgid "User with this %s e-mail address already exists."
+msgstr "Benutzer mit dieser %s E-Mail-Adresse existiert bereits."
+
+msgid "User with username %s already exists"
+msgstr "Benutzer mit dem Benutzernamen %s existiert bereits"
+
+msgid "Username"
+msgstr "Benutzername"
+
+msgid "Username or E-mail"
+msgstr "Benutzername oder E-Mail"
+
+msgid "Username or E-mail is required"
+msgstr "Benutzername oder E-Mail ist erforderlich"
+
+msgid "Username or E-mail is required."
+msgstr "Benutzername oder E-Mail ist erforderlich."
+
+msgid "Username or Email Address"
+msgstr "Benutzername oder E-mail Adresse"
+
+msgid "Users"
+msgstr "Benutzer"
+
+msgid "Users profile activity page"
+msgstr "Benutzerprofil Aktivit‰tsseite"
+
+msgid "Users with the chosen role will be shown on \"Members\" tab."
+msgstr "Benutzer mit der ausgew‰hlten Rolle werden auf der Registerkarte \"Mitglieder\" angezeigt."
+
+msgid "Vendor account number"
+msgstr "Lieferantenkontonummer"
+
+msgid "Video Tutorial"
+msgstr "Video Tutorial"
+
+msgid "View"
+msgstr "Ansicht"
+
+msgid "View previous comments"
+msgstr "Vorherige Kommentare anzeigen"
+
+msgid "View previous replies"
+msgstr "Vorherige Antworten anzeigen"
+
+msgid "Waiting for schedule"
+msgstr "Warten auf Zeitplan"
+
+msgid "Warning! All membership users data will be deleted. This action cannot be undone!"
+msgstr "Warnung! Alle Daten der Mitgliedschaftsbenutzer werden geloescht. Diese Aktion kann nicht r¸ckg‰ngig gemacht werden!"
+
+msgid "Warning! Some required Membership plugin pages are missing or haven't been created, you can assign or create them <a href=\"%s\">here</a>"
+msgstr "Warnung! Einige erforderliche Mitgliedschafts-Plugin-Seiten fehlen oder wurden nicht erstellt, Sie kˆnnen sie <a href=\"%s\"> hier </a> zuweisen oder erstellen"
+
+msgid "We are constantly making improvements of the Membership tool usage for your maximum comfort and easiness. And now it is the most appropriate moment to tell you about some options and features of Membership plugin."
+msgstr "Wir verbessern st‰ndig die Verwendung des Mitgliedschaftstools f¸r maximalen Komfort und Leichtigkeit. Und jetzt ist es der geeignetste Moment, um ¸ber einige Optionen und Funktionen des Mitgliedschaft-Plugins zu sprechen."
+
+msgid "We love the plugins that we created and feel responsibility for every our product. Constantly we are trying to improve something or update the new features, but sometimes you may have a situation when you need help or have an issue. We can propose you next kinds of help:"
+msgstr "Wir lieben die von uns geschaffenen Plugins und f¸hlen uns f¸r jedes Produkt verantwortlich. St‰ndig versuchen wir, etwas zu verbessern oder die neuen Funktionen zu aktualisieren, aber manchmal haben Sie mˆglicherweise eine Situation, in der Sie Hilfe benˆtigen oder ein Problem haben. Wir kˆnnen Ihnen die n‰chsten Arten von Hilfe vorschlagen:"
+
+msgid "Week"
+msgstr "Woche"
+
+msgid "Week(s)"
+msgstr "Wochen"
+
+msgid "Welcome to the"
+msgstr "Willkommen zu den"
+
+msgid "Welcome to {site_name}!"
+msgstr "Willkommen bei den {site_name}!"
+
+msgid "Well done!"
+msgstr "Gut gemacht!"
+
+msgid "What is the reason?"
+msgstr "Was ist der Grund?"
+
+msgid "What's new?"
+msgstr "Was gibt's Neues?"
+
+msgid "When this option is activated - users, who want to login to your website, will be redirected to Membership Login page instead of usual WordPress login form."
+msgstr "Wenn diese Option aktiviert ist, werden Benutzer, die sich auf Ihrer Website anmelden mˆchten, auf die Anmeldeseite der Mitgliedschaft anstatt des ¸blichen WordPress-Anmeldeformulars umgeleitet."
+
+msgid "When user bought any product assign role:"
+msgstr "Wenn ein Benutzer eine Produkt-Assign-Rolle gekauft hat:"
+
+msgid "When user bought specific product: assign role:"
+msgstr "Wenn ein Benutzer ein bestimmtes Produkt gekauft hat: Rolle zuweisen:"
+
+msgid "Who can be invited"
+msgstr "Wer kann eingeladen werden?"
+
+msgid "Who can comment my activity posts."
+msgstr "Wer kann meine Aktivit‰ten posten?"
+
+msgid "Who can invite"
+msgstr "Wer kann einladen?"
+
+msgid "Who can post to my profile activity."
+msgstr "Wer kann auf meine Profilaktivit‰t posten?"
+
+msgid "Who can send me private messages."
+msgstr "Wer kann mir private Nachrichten senden?"
+
+msgid "Who can view about information on my profile."
+msgstr "Wer kann Informationen ¸ber mein Profil einsehen?"
+
+msgid "Who can view comments on my activity posts."
+msgstr "Wer kann Kommentare zu meinen Aktivit‰tsposten anzeigen?"
+
+msgid "Who can view my followers."
+msgstr "Wer kann meine Follower sehen?"
+
+msgid "Who can view my follows."
+msgstr "Wer kann meine Follows sehen?"
+
+msgid "Who can view my friends."
+msgstr "Wer kann meine Freunde sehen?"
+
+msgid "Who can view my groups."
+msgstr "Wer kann meine Gruppen sehen?"
+
+msgid "Who can view my posts."
+msgstr "Wer kann meine Artikel sehen?"
+
+msgid "Who can view my profile activity page."
+msgstr "Wer kann meine Aktiv Seite sehen?"
+
+msgid "Who can view my profile."
+msgstr "Wer kann mein Profil sehen?"
+
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+msgid "WooCommerce (PRO)"
+msgstr "WooCommerce (PRO)"
+
+msgid "WooCommerce integration is made for those who want to create online shop inside Membership community."
+msgstr "Die WooCommerce-Integration ist f¸r diejenigen gedacht, die Online-Shops in der Mitglieder-Community erstellen mˆchten."
+
+msgid "Write a comment..."
+msgstr "Schreibe einen Kommentar..."
+
+msgid "Write a message"
+msgstr "Eine Nachricht schreiben"
+
+msgid "Write a message..."
+msgstr "Schreib eine Nachricht..."
+
+msgid "Year(s)"
+msgstr "Jahre"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "You able to use addon but update is disabled"
+msgstr "Sie kˆnnen Addon verwenden, aber das Update ist deaktiviert"
+
+msgid "You are is blocked by group administrator"
+msgstr "Sie sind vom Gruppenadministrator blockiert"
+
+msgid "You are not logged-in"
+msgstr "Du bist nicht eingeloggt"
+
+msgid ""
+"You can import new users as well as data for custom fields.\n"
+"\t\t\t\t\t\tTo do this, you need to specify the required fields in the first line of your csv file and for next lines data related to these fields."
+msgstr ""
+"Sie kˆnnen neue Benutzer sowie Daten f¸r benutzerdefinierte Felder importieren.\n"
+"\t\t\t\t\t\tUm dies zu tun, m¸ssen Sie die erforderlichen Felder in der ersten Zeile Ihrer CSV-Datei und f¸r die n‰chsten Zeilen Daten zu diesen Feldern angeben."
+
+msgid "You can login in to your account here."
+msgstr "Sie kˆnnen sich hier in Ihr Konto einloggen."
+
+msgid "You can not delete this map"
+msgstr "Sie kˆnnen diese Karte nicht lˆschen"
+
+msgid "You do not have access!"
+msgstr "You do not have access!"
+
+msgid "You don't have any conversations started."
+msgstr "Sie haben keine Gespraeche begonnen."
+
+msgid "You don't have permissions to access this user profile."
+msgstr "Sie sind nicht berechtigt, auf dieses Benutzerprofil zuzugreifen."
+
+msgid "You don't have unread notifications."
+msgstr "You don't have unread notifications."
+
+msgid "You have new {friend_follower}"
+msgstr "Du hast neue {friend_follower}"
+
+msgid "You have no Contact Form for now. Create your Contact Form or Enable Membership feature for contact form which you want to use for Contact Us page."
+msgstr "Sie haben momentan kein Kontaktformular. Erstellen Sie Ihr Kontaktformular oder die Funktion \"Mitgliedschaft aktivieren\" f¸r das Kontaktformular, das Sie f¸r die Kontaktseite verwenden mˆchten."
+
+msgid "You have no Currency for now. %s your first Membership Currency!"
+msgstr "Sie haben keine W‰hrung f¸r jetzt. %s deine erste Mitgliedschaftsw‰hrung!"
+
+msgid "You have no Galleries for now. Create your Gallery or Enable Membership feature for galleries which you want to use as presets!."
+msgstr "Sie haben momentan keine Galerien. Erstellen Sie Ihre Galerie oder die Funktion \"Mitgliedschaft aktivieren\" f¸r Galerien, die Sie als Voreinstellungen verwenden mˆchten !."
+
+msgid "You have no Google Maps for now. Create your Google Maps  or Enable Membership feature for Google Maps which you want to use as presets."
+msgstr "Sie haben momentan keine Google Maps. Erstellen Sie Ihre Google Maps- oder Mitgliedschaftsfunktion f¸r Google Maps, die Sie als Voreinstellungen verwenden mˆchten."
+
+msgid "You have no Membership Badges And Points for now. %s your first Membership Badges And Points!"
+msgstr "Sie haben jetzt keine Mitgliedschaftsabzeichen und Punkte. % s Ihre erste Mitgliedschaft Badges und Punkte!"
+
+msgid "You have no Membership Badges for now. %s your first Membership Badge!"
+msgstr "Sie haben jetzt keine Mitgliedschaftsabzeichen. % s dein erstes Mitgliedschaftsabzeichen!"
+
+msgid "You have no Membership Drip for now. Go to any Post / Page or other content edit on your site - and enable Dripping there."
+msgstr "Sie haben jetzt keinen Mitgliedschafts-Tropf. Gehe zu einer beliebigen Post / Page oder einem anderen Content-Edit auf deiner Site - und aktiviere dort Tropf."
+
+msgid "You have no Membership Levels for now."
+msgstr "You have no Membership Levels for now."
+
+msgid "You have no Membership Levels for now. %s your first Membership Level!"
+msgstr "Du hast momentan keine Mitgliedsstufen. % s dein erstes Mitgliedschaftslevel!"
+
+msgid "You have no Membership Levels for now. To protect your content by Membership Level - %s your first Level."
+msgstr "Du hast momentan keine Mitgliedsstufen. Um deine Inhalte nach Mitgliedschaftsstufe zu sch¸tzen -% s deine erste Stufe."
+
+msgid "You have no Orders for now."
+msgstr "Sie haben keine Befehle f¸r jetzt."
+
+msgid "You have no Sliders for now. Create your Slider or Enable Membership feature for sliders which you want to use as presets!."
+msgstr "Sie haben keine Schieberegler f¸r jetzt. Erstellen Sie Ihre Slider- oder Mitgliedschaftsfunktion f¸r Schieberegler, die Sie als Voreinstellungen verwenden mˆchten !."
+
+msgid "You have this Level"
+msgstr "Du hast dieses Level"
+
+msgid "You just subscribed from this IP"
+msgstr "Sie haben gerade von dieser IP-Adresse aus angemeldet"
+
+msgid "You must authorize to use Constant Contact features"
+msgstr "Sie m¸ssen die Verwendung von Constant Contact-Funktionen autorisieren"
+
+msgid "You must confirm your account email address. Check your email for confirmation link."
+msgstr "Sie m¸ssen die E-Mail-Adresse Ihres Kontos best‰tigen. ‹berpr¸fen Sie Ihre E-Mail-Adresse f¸r den Best‰tigungslink."
+
+msgid "You must enter a username or email address."
+msgstr "Sie m¸ssen einen Benutzernamen oder eine E-Mail-Adresse eingeben."
+
+msgid "You need to install Contact Form by Supsystic to use this feature. "
+msgstr "You need to install Contact Form by Supsystic to use this feature. "
+
+msgid "You need to install Google Maps Easy to use this feature. "
+msgstr "Sie m¸ssen Google Maps Easy installieren, um diese Funktion zu verwenden. "
+
+msgid "You need to install Photo Gallery by Supsystic to use this feature. "
+msgstr "Sie m¸ssen die Fotogalerie von Supsystic installieren, um diese Funktion nutzen zu kˆnnen. "
+
+msgid "You need to install Slider by Supsystic to use this feature. "
+msgstr "Sie m¸ssen Slider von Supsystic installieren, um diese Funktion nutzen zu kˆnnen"
+
+msgid "You need to install and activate WooCommerce plugin to use this feature. "
+msgstr "Sie m¸ssen das WooCommerce-Plugin installieren und aktivieren, um diese Funktion nutzen zu kˆnnen. "
+
+msgid "You will be redirected to next page in few seconds."
+msgstr "Sie werden in wenigen Sekunden zur n‰chsten Seite weitergeleitet."
+
+msgid "Your Feedback"
+msgstr "Ihre R¸ckmeldung"
+
+msgid "Your License Key from your account on"
+msgstr "Ihr Lizenzschl¸ssel von Ihrem Konto an"
+
+msgid "Your account at {site_name} is now active"
+msgstr "Ihr Konto bei {site_name} ist jetzt aktiv"
+
+msgid "Your account don't have permission to access this page"
+msgstr "Ihr Konto ist nicht berechtigt, auf diese Seite zuzugreifen"
+
+msgid "Your account don't have permission to read groups"
+msgstr "Ihr Konto hat keine Berechtigung zum Lesen von Gruppen"
+
+msgid "Your account don't have permission to see activity page"
+msgstr "Ihr Konto ist nicht berechtigt, die Aktivit‰tsseite zu sehen"
+
+msgid "Your account don't have permission to see members page"
+msgstr "Ihr Konto ist nicht berechtigt, die Mitgliederseite anzuzeigen"
+
+msgid "Your account don't have permission to see messages section"
+msgstr "Ihr Konto ist nicht berechtigt, den Nachrichtenbereich zu sehen"
+
+msgid "Your account don't have permissions to see activity page"
+msgstr "Ihr Konto hat keine Berechtigung, die Aktivit‰tsseite zu sehen"
+
+msgid "Your account has been deactivated"
+msgstr "Dein Konto wurde deaktiviert"
+
+msgid "Your account has been deleted"
+msgstr "Dein Account wurde geloescht"
+
+msgid "Your account has been deleted."
+msgstr "Dein Account wurde geloescht."
+
+msgid "Your account has been disabled."
+msgstr "Dein Konto wurde deaktiviert."
+
+msgid "Your account has been rejected"
+msgstr "Ihr Konto wurde abgelehnt"
+
+msgid "Your account has been rejected."
+msgstr "Ihr Konto wurde abgelehnt."
+
+msgid "Your account is awaiting admin approval."
+msgstr "Ihr Konto wartet auf die Genehmigung durch den Administrator."
+
+msgid "Your account is pending review"
+msgstr "Ihr Konto steht noch aus"
+
+msgid "Your changes could not be saved"
+msgstr "Ihre ƒnderungen konnten nicht gespeichert werden"
+
+msgid "Your changes has been saved."
+msgstr "Ihre ƒnderungen wurden gespeichert."
+
+msgid "Your email address, used on checkout procedure on"
+msgstr "Ihre E-Mail-Adresse, die bei der Kaufabwicklung verwendet wird"
+
+msgid "Your email has been confirmed."
+msgstr "Deine Email wurde best‰tigt."
+
+msgid "Your group successfully created. Redirecting to you new group..."
+msgstr "Ihre Gruppe wurde erfolgreich erstellt. Umleitung zu Ihrer neuen Gruppe ..."
+
+msgid "Your license has expired"
+msgstr "Deine Lizenz ist abgelaufen"
+
+msgid "Your password has been changed."
+msgstr "Ihr Passwort wurde ge‰ndert."
+
+msgid "Your password has been reset."
+msgstr "Dein Passwort wurde zur¸ck gesetzt."
+
+msgid "Your password reset link appears to be invalid. Please request a new link."
+msgstr "Ihr Link zum Zur¸cksetzen des Passworts scheint ung¸ltig zu sein. Bitte fordern Sie einen neuen Link an."
+
+msgid "Your search returned no results."
+msgstr "Deine Suche ergab keine Ergebnisse."
+
+msgid "Your secret key, generated on <a href=\"https://www.google.com/recaptcha/admin#list\" target=\"_blank\">https://www.google.com/recaptcha/admin#list</a>."
+msgstr "Ihr geheimer Schl¸ssel, generiert auf <a href=\"https://www.google.com/recaptcha/admin#list\" target=\"_blank\"> https://www.google.com/recaptcha/admin#list</ a>."
+
+msgid "Your site key, generated on <a href=\"https://www.google.com/recaptcha/admin#list\" target=\"_blank\">https://www.google.com/recaptcha/admin#list</a>."
+msgstr "Ihr Website-Schl¸ssel, generiert auf <a href=\"https://www.google.com/recaptcha/admin#list\" target=\"_blank\"> https://www.google.com/recaptcha/admin#list</ a>."
+
+msgid "Your {site_name} password has been changed"
+msgstr "Ihr {site_name} -Kennwort wurde ge‰ndert"
+
+msgid "[{site_name}] Account deleted"
+msgstr "[{site_name}] Konto geloescht"
+
+msgid "[{site_name}] New user account"
+msgstr "[{site_name}] Neues Benutzerkonto"
+
+msgid "[{site_name}] New user awaiting review"
+msgstr "[{site_name}] Neuer Benutzer wartet auf ‹berpr¸fung"
+
+msgid "here"
+msgstr "hier"
+
+msgid "internal support"
+msgstr "interne Unterst¸tzung"
+
+msgid "is loading..."
+msgstr "ladet..."
+
+msgid "is required"
+msgstr "Wird benˆtigt"
+
+msgid "of"
+msgstr "von"
+
+msgid "per"
+msgstr "pro"
+
+msgid "required"
+msgstr "erforderlich"
+
+msgid "right after"
+msgstr "gleich nach"
+
+msgid "to start searching, enter more than 2 characters"
+msgstr "Um mit der Suche zu beginnen, geben Sie mehr als 2 Zeichen ein"
+
+msgid ""
+"{display_name} has just applied for membership to {site_name} and is waiting to be reviewed.\n"
+"To review this member please click the following link: <a href=\"{user_profile_link}\">{user_profile_link}</a>\n"
+"Here is the submitted registration form:\n"
+"{submitted_registration}"
+msgstr ""
+"{display_name} hat gerade die Mitgliedschaft f¸r {site_name} beantragt und wartet darauf, ¸berpr¸ft zu werden.\n"
+"Um dieses Mitglied zu ¸berpr¸fen, klicken Sie bitte auf den folgenden Link: <a href=\"{user_profile_link}\"> {user_profile_link} </a>\n"
+"Hier ist das eingereichte Anmeldeformular:\n"
+"{submitted_registration}"
+
+msgid ""
+"{display_name} has just created an account on {site_name}.\n"
+"To view their profile click here: <a href=\"{user_profile_link}\">{user_profile_link}</a>\n"
+"Here is the submitted registration form:\n"
+"{submitted_registration}"
+msgstr ""
+"{display_name} hat gerade ein Konto auf {site_name} erstellt.\n"
+"Klicken Sie hier, um ihr Profil anzuzeigen: <a href=\"{user_profile_link}\"> {user_profile_link} </a>\n"
+"Hier ist das eingereichte Anmeldeformular:\n"
+"{submitted_registration}"
+
+msgid "{display_name} has just deleted their {site_name} account."
+msgstr "{display_name} hat gerade das Konto {site_name} geloescht."

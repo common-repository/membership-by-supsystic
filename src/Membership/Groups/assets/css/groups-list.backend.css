@@ -1,0 +1,23 @@
+#mbsGroupsTblSearchTxt{
+	max-width: 150px;
+	float: right;
+}
+#mbsGroupsTblNavBtnsShell{
+	display: inline-block;
+	margin-right: 35px;
+	width: 700px;
+}
+#pg_mbsGroupsTblNav .ui-pg-table{
+	display: inline-block;
+}
+#mbsGroupsTblNav_center{
+	text-align: left;
+}
+#mbsGroupsTblNav_center{
+	width: inherit!important;
+}
+#mbsGroupsTblNav_right{
+	padding-top: 20px;
+	max-width: 230px;
+	min-width: 230px;
+}
